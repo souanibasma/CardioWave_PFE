@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pulmonary embolism",
+  "displaytitle": "<span class=\"mw-page-title-main\">Pulmonary embolism</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q220570",
+  "titles": {
+    "canonical": "Pulmonary_embolism",
+    "normalized": "Pulmonary embolism",
+    "display": "<span class=\"mw-page-title-main\">Pulmonary embolism</span>"
+  },
+  "pageid": 207165,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pulmonary-embolism.png/330px-Pulmonary-embolism.png",
+    "width": 330,
+    "height": 248
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pulmonary-embolism.png",
+    "width": 3200,
+    "height": 2400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1338775401",
+  "tid": "d37767f0-0bb5-11f1-90fc-a371269513d7",
+  "timestamp": "2026-02-17T04:04:59Z",
+  "description": "Blockage of an artery in the lungs",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pulmonary_embolism",
+      "revisions": "https://en.wikipedia.org/wiki/Pulmonary_embolism?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pulmonary_embolism?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pulmonary_embolism"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Pulmonary_embolism",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Pulmonary_embolism",
+      "edit": "https://en.wikipedia.org/wiki/Pulmonary_embolism?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pulmonary_embolism"
+    }
+  },
+  "extract": "Pulmonary embolism (PE) is a blockage of an artery in the lungs by a substance that has moved from elsewhere in the body through the bloodstream (embolism). Symptoms of a PE may include shortness of breath, chest pain particularly upon breathing in, and coughing up blood. Symptoms of a blood clot in the leg may also be present, such as a red, warm, swollen, and painful leg. Signs of a PE include low blood oxygen levels, rapid breathing, rapid heart rate, and sometimes a mild fever. Severe cases can lead to passing out, abnormally low blood pressure, obstructive shock, and sudden death.",
+  "extract_html": "<p><b>Pulmonary embolism</b> (<b>PE</b>) is a blockage of an artery in the lungs by a substance that has moved from elsewhere in the body through the bloodstream (embolism). Symptoms of a PE may include shortness of breath, chest pain particularly upon breathing in, and coughing up blood. Symptoms of a blood clot in the leg may also be present, such as a red, warm, swollen, and painful leg. Signs of a PE include low blood oxygen levels, rapid breathing, rapid heart rate, and sometimes a mild fever. Severe cases can lead to passing out, abnormally low blood pressure, obstructive shock, and sudden death.</p>"
+}

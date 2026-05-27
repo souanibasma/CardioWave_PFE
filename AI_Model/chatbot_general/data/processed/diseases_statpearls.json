@@ -1,0 +1,725 @@
+[
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537076/",
+    "name": "Myocardial Infarction",
+    "source": "statpearls",
+    "definition": "Myocardial infarction (MI), colloquially known as “heart attack,” is caused by decreased or complete cessation of blood flow to a portion of the myocardium. Myocardial infarction may be “silent” and go undetected, or it could be a catastrophic event leading to hemodynamic deterioration and sudden death.[1]Most myocardial infarctions are due to underlying coronary artery disease, the leading cause of death in the United States. With coronary artery occlusion, the myocardium is deprived of oxygen. Prolonged deprivation of oxygen supply to the myocardium can lead to myocardial cell death and necrosis.[2]Patients can present with chest discomfort or pressure that can radiate to the neck, jaw, shoulder, or arm. In addition to the history and physical exam, myocardial ischemia may be associated with ECG changes and elevated biochemical markers such as cardiac troponins.[3][4]",
+    "symptoms": [
+      "The imbalance between oxygen supply and the demand leads to myocardial ischemia and can sometimes lead to myocardial infarction. The patient’s history, electrocardiographic findings, and elevated serum biomarkers help identify ischemic symptoms. Myocardial ischemia can present as chest pain, upper extremity pain, mandibular, or epigastric discomfort that occurs during exertion or at rest. Myocardial ischemia can also present as dyspnea or fatigue, which are known to be ischemic equivalents.[14]The chest pain is usually retrosternal and is sometimes described as the sensation of pressure or heaviness. The pain often radiates to the left shoulder, neck, or arms with no obvious precipitating factors, and it may be intermittent or persistent. The pain usually lasts for more than 20 minutes.[15]It is usually not affected by positional changes or active movement of the region. Additional symptoms, such as sweating, nausea, abdominal pain, dyspnea, and syncope, may also be present.[14][16][17]The MI can also present atypically with subtle findings such as palpitations, or more dramatic manifestations, such as cardiac arrest. The MI can sometimes present with no symptoms.[18]"
+    ],
+    "causes": [
+      "As stated above, myocardial infarction is closely associated with coronary artery disease. INTERHEART is an international multi-center case-control study which delineated the following modifiable risk factors for coronary artery disease:[5][6]",
+      "The INTERHEART study showed that all the above risk factors were significantly associated with acute myocardial infarction except for alcohol consumption, which showed a weaker association. Smoking and abnormal apolipoprotein ratio showed the strongest association with acute myocardial infarction. The increased risk associated with diabetes and hypertension were found to be higher in women, and the protective effect of exercise and alcohol was also found to be higher in women.[5]",
+      "Other risk factors include a moderately high level of plasma homocysteine, which is an independent risk factor of MI. Elevated plasma homocysteine is potentially modifiable and can be treated with folic acid, vitamin B6, and vitamin B12.[7]"
+    ],
+    "risk_factors": [
+      "4.0% (Male)",
+      "2.4% (Female)",
+      "3.3% (Male)",
+      "2.2% (Female)",
+      "2.9% (Male)",
+      "2.1% (Female)",
+      "2.6% (Male)",
+      "0.7% (Female)"
+    ],
+    "treatments": [
+      "Acute Management",
+      "Reperfusion therapy is indicated in all patients with symptoms of ischemia of less than 12-hours duration and persistent ST-segment elevation. Primary percutaneous coronary intervention (PCI) is preferred to fibrinolysis if the procedure can be performed <120 minutes of ECG diagnosis. If there is no immediate option of PCI (>120 minutes), fibrinolysis should be started within 10 minutes of STEMI after ruling out contraindications. If transfer to a PCI center is possible in 60 to 90 minutes after a bolus of the fibrinolytic agent and patient meets reperfusion criteria, a routine PCI can be done, or a rescue PCI can be planned.[19][17]If fibrinolysis is planned, it should be carried out with fibrin-specific agents such as tenecteplase, alteplase, or reteplase (class I).[19]",
+      "Relief of pain, breathlessness, and anxiety:The chest pain due to myocardial infarction is associated with sympathetic arousal, which causes vasoconstriction and increased workload for the ischemic heart. Intravenous opioids (e.g., morphine) are the analgesics most commonly used for pain relief (Class IIa).[19]The results from CRUSADE quality improvement initiative have shown that the use of morphine may be associated with a higher risk of death and adverse clinical outcomes.[22]The study was done from the CIRCUS (Does Cyclosporine Improve outcome in STEMI patients) database, which showed no significant adverse events associated with morphine use in a case of anterior ST-segment elevation MI.[23]A mild anxiolytic (usually a benzodiazepine) may be considered in very anxious patients (class IIa). Supplemental oxygen is indicated in patients with hypoxemia (SaO2 <90% or PaO2 <60mm Hg) (Class I).[19]"
+    ],
+    "prevention": [
+      "Reinfarction",
+      "Extension of infarction",
+      "Angina",
+      "Supraventricular or ventricular arrhythmia",
+      "Sinus bradycardia and atrioventricular block",
+      "Myocardial dysfunction",
+      "Cardiac failure",
+      "Cardiogenic shock",
+      "Cardiac rupture (Free wall rupture, ventricular septal rupture, papillary muscle rupture)",
+      "Left ventricular mural thrombus,",
+      "Peripheral embolus",
+      "Pericarditis (infarct associated pericarditis, late pericarditis, or post-cardiac injury pericarditis)",
+      "Pericardial effusion"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK430873/",
+    "name": "Heart Failure",
+    "source": "statpearls",
+    "definition": "Heart failure (HF), as defined by the American College of Cardiology (ACC) and the American Heart Association (AHA), is a complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. HF is a common disorder worldwide with a high morbidity and mortality rate. With an estimated prevalence of 26 million people worldwide, CHF contributes to increased healthcare costs, reduces functional capacity, and significantly affects quality of life. Accurately diagnosing and effectively treating the disease is essential to prevent recurrent hospitalizations, decrease morbidity and mortality, and enhance patient outcomes.[1] The etiology of HF is variable and extensive. Ischemic heart disease is the leading cause of HF. The general management of HF aims to relieve systemic and pulmonary congestion and stabilize hemodynamic status, regardless of the cause. The treatment of HF requires a multifaceted approach involving patient education, optimal medication administration, and decreasing acute exacerbations. Per the recent ACC/AHA guidelines for HF 2022, patients with HF are classified based on left ventricle ejection fraction (LVEF), whereas clinical and laboratory parameters are integrated to stage patients. The New York Heart Association (NYHA) classification stratifies and defines the functional capacity and severity of HF symptoms. This system is subjectively determined by clinicians and is widely used in clinical practice to direct therapy. Management of patients depends on the classification and staging of the disease.[1]",
+    "symptoms": [
+      "Acute pulmonary edema",
+      "Cardiomegaly",
+      "Hepatojugular reflex",
+      "Neck vein distention",
+      "Paroxysmal nocturnal dyspnea or orthopnea",
+      "Pulmonary rales",
+      "Third heart sound (S3 Gallop)",
+      "Ankle edema",
+      "Dyspnea on exertion",
+      "Hepatomegaly",
+      "Nocturnal cough",
+      "Pleural effusion",
+      "Tachycardia (heart rate >120 beats per minute)[37]"
+    ],
+    "causes": [
+      "Heart Failure Etiologies",
+      "The etiologies of HF are extensive, though coronary artery disease (CAD) causing ischemic heart disease is the most common cause. Every attempt should be made to identify causative factors to help guide treatment strategies. The etiologies can be broadly classified as intrinsic heart disease and pathologies that are infiltrative, congenital, valvular, myocarditis-related, high-output failure, and secondary to systemic disease.[3][4]These classifications have significant overlap.",
+      "The 4 most common etiologies responsible for about two-thirds of HF cases are ischemic heart disease, chronic obstructive pulmonary disease (COPD), hypertensive heart disease, and rheumatic heart disease. Higher-income countries have higher rates of ischemic heart disease and COPD; lower-income countries have higher rates of hypertensive heart disease, cardiomyopathy, rheumatic heart disease, and myocarditis."
+    ],
+    "risk_factors": [
+      "The global magnitude of the disease cannot be accurately assessed given the significant differences in geographical distribution, assessment methods, lack of imaging modalities, and nonadherence to the uniform staging and diagnosis of the disease. Approximately 1.2 million hospitalizations were due to CHF in 2017, with an increase in the percentage of patients with HFpEF compared to HFrEF.[1]By some reports, the incidence rate has plateaued; however, the prevalence increases as more patients receive therapy. Moreover, treatment has not translated to improved quality of life or a decrease in the number of hospitalizations for patients with CHF. According to the Global Health Data Exchange registry, the current worldwide prevalence of CHF is 64.34 million cases. This translates to 9.91 million years lost due to disability and 346.17 billion United States dollars in healthcare expenditure.[24]",
+      "Age is a major determinant of HF. Regardless of the cause or the definition used to classify patients with HF, the prevalence of HF increases steeply with age. The Framingham Heart Study showed CHF prevalence to be 8 per 1000 males aged 50 to 59 years, with an increase to 66 per 1000 males aged 80 to 89.[25]The incidence of HF in men doubles with each 10-year age increase after the age of 65, whereas in women, for the same age cohort, the incidence triples. Men have higher rates of heart disease and CHF than women worldwide.[26][3]",
+      "The global registry also notes a predilection for a race with a 25% higher prevalence of HF in Black patients than in White patients. HF is still the primary cause of hospitalization in the elderly population and accounts for 8.5% of cardiovascular-related deaths in the United States.[26]International statistics regarding the epidemiology of HF are similar. The incidence increases dramatically with age, metabolic risk factors, and a sedentary lifestyle. Ischemic cardiomyopathy and hypertension are significant causes of HF in developing countries.[27]A notable difference based on a review of small cohort studies from these nations is a higher prevalence of isolated right HF. The theoretical cause of this is thought to be due to the higher prevalence of tuberculous, pericardial, and lung diseases; however, robust data to verify these claims are lacking."
+    ],
+    "treatments": [
+      "In patients with hypertension, guideline-directed medical therapy (GDMT) should be used for the management of hypertension.",
+      "In patients with type 2 diabetes, SGLT-2 inhibitors are indicated to reduce HF hospitalizations.",
+      "Lifestyle modifications, including healthy eating, physical activity, maintaining a normal weight, and avoidance of smoking, are indicated.",
+      "Prognostication scores are recommended for patients with HF to estimate the risk of future HF events.[45]Examples include the Framingham Heart Failure Risk Score (1999), Health ABC Heart Failure Score (2008), ARIC Risk Score (2012), and PCP-HF score (2019).",
+      "Optimal management of cardiovascular diseases in patients known to have CAD should be implemented.",
+      "Patients at risk for HF due to exposure to cardiotoxic medications (eg, chemotherapy) should be managed with an interprofessional approach.",
+      "Natriuretic peptide screening and periodic evaluation should be performed.",
+      "For patients with LVEF ≤40%, angiotensin-converting enzyme inhibitors (ACEI) should be used to prevent clinical HF and for mortality reduction.",
+      "For patients with LVEF ≤40% and evidence of prior or recent acute coronary syndrome or myocardial infarction, the use of a statin and beta-blocker is recommended for reduction of mortality, CHF, and adverse cardiovascular events.",
+      "For patients with LVEF ≤30% and receiving optimal medical therapy, with NYHA-class I and an expectation of meaningful survival of more than 1 year, a primary prevention ICD is recommended.",
+      "Beta-blockers are recommended for patients with LVEF ≤40%, irrespective of the etiology, to prevent symptomatic HF.",
+      "For patients with LVEF ≤50%, the use of thiazolidinediones and non-dihydropyridine calcium channel blockers increases the risk of adverse outcomes and HF hospitalizations, so they should be avoided.",
+      "Valve repair, replacement, or interventions have associated guidelines for asymptomatic valvular heart disease.",
+      "Patients with congenital heart disease also have associated guidelines.",
+      "Interprofessional management is indicated for improving self-care and mortality of patients with HF.",
+      "Patient education and social support are required for optimal management.",
+      "Vaccination against respiratory illnesses is effective in reducing mortality.",
+      "Screening patients for frailty, depression, low literacy, low social support, and resource and transport logistics during healthcare encounters is reasonable.",
+      "A low-sodium diet is recommended.",
+      "Exercise training is effective in improving functional class and quality of life.",
+      "For patients with congestion, diuretics improve symptoms and reduce HF progression.",
+      "A thiazide diuretic (such as metolazone) should be added only to patients who do not respond well to a moderate or high dose of loop diuretics.",
+      "For patients with HFrEF, an ARNI is recommended to reduce mortality and morbidity. ARNI should not be given to patients who are intolerant of ACEI, and an angiotensin receptor blocker (ARB) should be substituted. For patients unable to take an ARNI due to economic factors, an ACEI or ARB is indicated. ARNI should not be used within 36 hours of the last dose of ACEI. Switching to ARNI is recommended for patients tolerating ACEI/ARB well, as it has a high economic value. As with ACEI, ARNI should not be given to patients with a history of angioedema.",
+      "For patients with HFrEF, using the beta-blockers carvedilol, bisoprolol, or sustained-release metoprolol effectively reduces mortality and hospitalization.",
+      "MRA is recommended for patients with HFrEF, NYHA class II to IV, an eGFR of >30 mL/min/1.73 m2, and a serum potassium of <5.0 mEq/L. However, MRA is harmful for patients with a serum potassium of >5.0 mEq/L.",
+      "For patients with HFrEF, the use of SGLT-2 inhibitors is recommended to reduce mortality and HF hospitalization, irrespective of the diabetes status.",
+      "For African American patients with HFrEF and NYHA class III to IV who are already receiving optimal medical therapy, the addition of a combination of hydralazine and nitrate is recommended to reduce morbidity and mortality. This is of high economic value.",
+      "For patients with HFrEF and intolerance to RAASI or in whom RAASI is contraindicated due to renal insufficiency, the use of a combination of hydralazine and nitrate might be effective.",
+      "Titrating medications aggressively to achieve desired outcomes is recommended. This can be done as frequently as 1 to 2 weeks as tolerated.",
+      "Ivabradine can be useful in patients on optimal medical therapy with a heart rate of more than 70 bpm, providing mortality benefits and reducing HF hospitalization.",
+      "Digoxin may be considered in symptomatic patients with sinus rhythm despite adequate goal-directed therapy to reduce the all-cause rate of hospitalizations, but its role is limited.",
+      "In patients with HFrEF and recent HF, an oral soluble guanylate cyclase stimulator (Vericiguat) might be useful in reducing mortality and HF hospitalization. Vericiguat is a soluble guanylate cyclase stimulator that stimulates the intracellular receptor for endogenous nitric oxide, a potent vasodilator. It also improves cardiac contractility.[46][47]",
+      "Device therapy",
+      "An implantable cardioverter-defibrillator (ICD) is indicated for primary prevention of sudden cardiac death in patients with HF who have an LVEF of ≤35% and an NYHA functional class of II to III while on goal-directed medical therapy. An ICD is also indicated if a patient has NYHA functional class I and an EF of ≤30% on adequate medical therapy.Cardiac resynchronization therapy (CRT) with biventricular pacing is recommended in patients with HFrEF and an NYHA functional class of II to III or ambulatory class IV with an LVEF ≤35%, QRS duration ≥150 ms, and sinus rhythm with left bundle branch block (LBBB) morphology. It can also be considered in non-LBBB morphology and QRS ≥150 ms.",
+      "An implantable cardioverter-defibrillator (ICD) is indicated for primary prevention of sudden cardiac death in patients with HF who have an LVEF of ≤35% and an NYHA functional class of II to III while on goal-directed medical therapy. An ICD is also indicated if a patient has NYHA functional class I and an EF of ≤30% on adequate medical therapy.",
+      "Cardiac resynchronization therapy (CRT) with biventricular pacing is recommended in patients with HFrEF and an NYHA functional class of II to III or ambulatory class IV with an LVEF ≤35%, QRS duration ≥150 ms, and sinus rhythm with left bundle branch block (LBBB) morphology. It can also be considered in non-LBBB morphology and QRS ≥150 ms.",
+      "Revascularization is indicated in selected patients with coronary artery disease and HFrEF while on GDMT.",
+      "Valvular heart disease interventions such as transcatheter edge-to-edge mitral valve repair or mitral valve surgery might be beneficial for patients with HF and on GDMT.",
+      "Referral to an HF specialist is indicated.",
+      "It is reasonable to utilize inotropic support and device therapy in patients awaiting mechanical cardiac support or transplants. Inotropic support alone can be used in patients not eligible for a transplant or mechanical cardiac support.",
+      "Mechanical cardiac support, eg, a durable left ventricle assist device (LVAD) or ECMO, can be beneficial as a bridge to transplant.",
+      "For highly selected patients, cardiac transplant is indicated to improve survival and quality of life.",
+      "Shared decision-making should determine the goals of care. This includes considering comorbid conditions, frailty, and socio-economic support. Palliative care should be offered as indicated after shared decision-making."
+    ],
+    "prevention": [
+      "Reduced quality of life",
+      "Arrhythmia and sudden cardiac death",
+      "Cardiac cachexia",
+      "Cardiorenal disease",
+      "Liver dysfunction",
+      "Functional valvular insufficiencies (eg, functional MR or TR)",
+      "Mural thrombi and risk of thromboembolism (brain, kidney, lung, major limb vessels)",
+      "Recurrent hospitalizations and nosocomial infection",
+      "Mortality"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539859/",
+    "name": "Hypertension",
+    "source": "statpearls",
+    "definition": "The current definition of hypertension (HTN) is systolic blood pressure (SBP) values of 130 mm Hg or more and/or diastolic blood pressure (DBP) of more than 80 mm Hg. Hypertension ranks among the most common chronic medical condition characterized by a persistent elevation in arterial pressure. Hypertension has been among the most studied topics of the previous century and has been one of the most significant comorbidities contributing to the development of stroke, myocardial infarction, heart failure, and renal failure.",
+    "symptoms": [
+      "Coarctation of the aorta (radio-radial delay, radio-femoral delay, differences in left and right arm BP or upper and lower limb BP more than 20 mm Hg)",
+      "Aortic valve disease (systolic ejection murmur, 4th heart sound)",
+      "Renovascular disease or fibromuscular dysplasia (FMD) - (renal bruit, carotid bruit)",
+      "Polycystic kidneys (enlarged kidneys bilaterally)",
+      "Endocrine disorders [hypercortisolism(thin skin, easy bruising,  hyperglycemia)",
+      "Thyroid disorders(palpable/ painful or enlarged thyroid] make up the common treatable causes of secondary hypertension"
+    ],
+    "causes": [
+      "Most cases of hypertension are idiopathic, which is also known as essential hypertension.  It has long been suggested that an increase in salt intake increases the risk of developing hypertension.[1]One of the described factors for the development of essential hypertension is the patient's genetic ability to salt response.[2][3]About 50% to 60% of the patients are salt sensitive and therefore tend to develop hypertension.[4]"
+    ],
+    "risk_factors": [
+      "More than one billion adults worldwide have hypertension, with up to 45% of the adult populace being affected by the disease[5]. The high prevalence of hypertension is consistent across all socio-economic and income strata, and the prevalence rises with age, accounting for up to 60% of the population above 60 years of age.[5]",
+      "In the year 2010, the global health survey report published in Lancet, which was comprised of patient data from 67 countries, reported Hypertension as the leading cause of death and disability-adjusted life years worldwide since the year 1990.",
+      "In the United States, HTN alone accounts for more cardiovascular disease-related deaths than any other modifiable risk factor and is second only to cigarette smoking as a preventable cause of death for any reason.[6]"
+    ],
+    "treatments": [
+      "Side effects are generally mild and resolve promptly upon decreasing the dosage or discontinuing the drug for short intervals.",
+      "Patients should be frequently monitored for side effects, more so in the early initiation phase of therapy when they are much more frequent. Side effects are usually self-limited and include hypotension (more common with calcium channel blockers (CCBs) and ACEi/ ARBs), electrolyte imbalances, pedal edema (more common with CCBs), and renal dysfunction. Renal dysfunction and electrolyte imbalance, especially hyponatremia and hyperkalemia, are frequent with ACEi and ARBs and need to be monitored periodically until the achievement of static levels of Cr, K, and Na.",
+      "For patients with severe side effects like symptomatic hyperkalemia or hyponatremia, syncope, and acute kidney injury (AKI), treatment needs to be discontinued, and inpatient management is advised. Nephrologist and cardiologist opinions also need to be sought in such cases. Once the issues settle, treatment needs to be re-instituted gradually and cautiously with careful monitoring and frequent follow-ups."
+    ],
+    "prevention": [
+      "The following complications have been reported with uncontrolled hypertension in multiple large-scale population trials.[15][16]"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK526072/",
+    "name": "Atrial Fibrillation",
+    "source": "statpearls",
+    "definition": "Atrial fibrillation is the most common type of cardiac arrhythmia. It is due to abnormal electrical activity within the atria of the heart, causing them to fibrillate. It is characterized as a tachyarrhythmia, which means that the heart rate is often fast. This arrhythmia may be paroxysmal (less than seven days) or persistent (more than seven days). Due to its rhythm irregularity, blood flow through the heart becomes turbulent and has a high chance of forming a thrombus (blood clot), which can ultimately dislodge and cause a stroke. Atrial fibrillation is the leading cardiac cause of stroke. Risk factors for atrial fibrillation include advanced age, high blood pressure, underlying heart and lung disease, congenital heart disease, and increased alcohol consumption. Symptoms vary from asymptomatic to symptoms such as chest pain, palpitations, fast heart rate, shortness of breath, nausea, dizziness, diaphoresis (severe sweating), and generalized fatigue. Although atrial fibrillation may be a permanent disease, various treatments, and risk modifying strategies have been developed to help reduce the risk of stroke in patients that remain in atrial fibrillation. Treatments include anticoagulation, rate control medication, rhythm control medication, cardioversion, ablation, and other interventional cardiac procedures.[1][2][3]",
+    "symptoms": [
+      "History and physical exam are crucial for diagnosing and risk stratifying patients with atrial fibrillation. The presentation of AF can range from asymptomatic to devastating complications such as cardiogenic shock and ischemic stroke. A complete history should focus on symptoms such as palpitations, chest pain, shortness of breath, increased lower extremity swelling, dyspnea on exertion, and dizziness. In addition, history is imperative in identifying risk factors such as hypertension, history of valvular, structural, or ischemic heart disease, obstructive sleep apnea, obesity hypoventilation syndrome, smoking, alcohol intake, illicit drug use, history of rheumatic fever/heart disease, history of pericarditis, and hyperlipidemia. Initial evaluation of any patient presenting with features of AF should include the assessment for hemodynamic instability. Assessment of patients with existing AF includes questions regarding:",
+      "A physical exam should always begin with the assessment of airway breathing and circulation as it is going to affect the decision-making regarding management. On general physical examination, patients may be tachycardic with an irregularly irregular pulse. The heart rate usually ranges from 110/min to 140/min. Extremities should be evaluated for edema, peripheral pulses in both upper and lower extremities, and integumentary signs of peripheral vascular disease (PVD), such as hair loss and skin breakdown.",
+      "The physical exam should focus on identifying the cause of AF. For instance, examining the neck of the patient may give some clues regarding carotid artery disease or thyroid problems. The pulmonary examination may reveal signs of heart failure in the form of rales, and the presence of wheezing may indicate antecedent pulmonary diseases such as asthma and chronic obstructive pulmonary disease (COPD). A cardiovascular exam should consist of careful auscultation of all four cardiac posts and palpation of apical impulse, as this would be crucial in diagnosing an underlying valvular pathology. An abdominal exam should consist of palpating the aorta and listening for abdominal bruits. Moreover, hepatomegaly and abdominal distension may indicate heart failure. Subsequently, a careful examination of the central and peripheral nervous system may reveal signs of transient ischemic attack or cerebrovascular accident."
+    ],
+    "causes": [
+      "There are many causes of atrial fibrillation (AF), but it shares a strong association with other cardiovascular diseases. The commonly encountered causes include:",
+      "Any condition that leads to inflammation, stress, damage, or ischemia affecting the anatomy of the heart can result in the development of atrial fibrillation. In some cases, the cause is iatrogenic.[4]",
+      "Atrial fibrillation is referred to as recurrent when a patient has two or more episodes. The three patterns of atrial fibrillation include:"
+    ],
+    "risk_factors": [
+      "Atrial fibrillation is the most commonly encountered cardiac rhythm disorder. The prevalence of atrial fibrillation has been increasing worldwide. It is known that the prevalence of atrial fibrillation generally increases with age. It has been estimated that the number of individuals with atrial fibrillation will double or triple by the year 2050. Although the worldwide prevalence of atrial fibrillation is approximately 1%, it is found in approximately 9% of individuals over the age of 75. At the age of 80, the lifetime risk of developing atrial fibrillation jumps to 22%. In addition, atrial fibrillation has more commonly been associated with males and is seen more often in whites as compared to blacks.[5][6]"
+    ],
+    "treatments": [
+      "The management of atrial fibrillation in the acute setting depends on hemodynamic stability and risk stratification. In cases where the patient is hemodynamically unstable, it is recommended to carry out immediate cardioversion with anticoagulant therapy. Although TEE is recommended before any cardioversion; however, if the patient is hemodynamically unstable due to a rapid ventricular response, cardioversion may be indicated without prior TEE. If there is evidence of rapid ventricular response, a beta-blocker or calcium-channel blocker should be commenced for rate control. These options can be used in the intravenous (IV) form for rapid response. Usually, a bolus is administered to the patient and then started on a drip if symptoms do not resolve. Digoxin can be considered for rate control but is not advised as a first-line agent pertaining to its adverse effects and tolerance. Amiodarone can also be given as a rhythm control agent but is also not a first-line option in the acute setting. In any case, if the decision to start amiodarone is made, cardiology should be consulted before its administration.",
+      "In the case of preexisting atrial fibrillation, the patient should be risk-stratified using the CHADs-2-Vasc score, which is helpful in estimating the risk of stroke per year. If the patient receives a 0 score, it is considered \"low-risk,\" and anticoagulation is not recommended in such cases. If the patient receives a score of 1, it falls in the \"low-moderate\" risk category; the providers should consider anticoagulant or antiplatelet therapy. If the patient receives a score of greater than 2, they are in the \"moderate-high\" risk category, and anticoagulation therapy is indicated.[2]Rate or rhythm control should also be given to the patient; medications such as beta-blockers, calcium channel blockers, amiodarone, dronedarone, and digoxin are available options. HAS-BLED is also a scoring system that can be used to assess the risk of bleeding for the patient. This is a good indicator of bleeding risk for a patient that is being considered for anticoagulation.",
+      "Non-pharmacological therapy includes ablation therapy. Pacemaker placement is considered in severe cases resulting in heart failure in atrial fibrillation.[9][10][11]"
+    ],
+    "prevention": [
+      "The major side effect of atrial fibrillation is a stroke. Cerebral vascular accidents (CVA) can lead to severe morbidity and mortality. CVA risk can be reduced significantly by anticoagulation with adjunct rate/rhythm therapy. Other complications include heart disease and heart failure secondary."
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537326/",
+    "name": "Coronary Artery Disease",
+    "source": "statpearls",
+    "definition": "",
+    "symptoms": [],
+    "causes": [],
+    "risk_factors": [],
+    "treatments": [],
+    "prevention": []
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK535369/",
+    "name": "Stroke",
+    "source": "statpearls",
+    "definition": "Acute stroke is frequently referred to as a cerebrovascular accident; however, it is essential to note that a stroke is not an accidental event. A more accurate and meaningful term to describe it is \"brain attack,\" which carries a similar significance to \"heart attack.\" However, stroke encompasses a broader range of variations than heart disease. Stroke is categorized into mainly 2 types: ischemic and hemorrhagic. Hemorrhagic strokes are further divided into intracerebral hemorrhage (ICH) and subarachnoid hemorrhage (SAH), more specifically, nontraumatic (spontaneous) ICH and nontraumatic (spontaneous aneurysmal) SAH.[1] Ischemic strokes occur when there is a blockage in a blood vessel, resulting in a restricted blood supply to the brain. In contrast, hemorrhagic strokes occur when a blood vessel ruptures, causing blood to leak into the intracranial cavity.",
+    "symptoms": [
+      "A rapid, focused history and physical examination are essential for evaluating a patient presenting with acute-onset focal neurological dysfunction. These initial steps are crucial in differentiating acute stroke from stroke mimics and determining the etiology (whether it is ischemic or hemorrhagic, including the subtype). Although statistics may vary, common ischemic stroke mimics include hypoglycemia, seizure, and migraine.[35]",
+      "Ischemic Stroke",
+      "Ideally, a patient's history should include information about when they were last known to be well, the understanding of onset, any risk factors, medications, and other relevant details regarding a possible underlying illness. Along with assessing vital signs, conducting a targeted neurological examination using the National Institutes of Health Stroke Scale (NIHSS) is advisable.[12]"
+    ],
+    "causes": [
+      "Ischemic Stroke",
+      "Ischemic stroke exhibits significant heterogeneity, with more than 100 implicated pathologies.[9]The Trial of Org 10172 in Acute Stroke Treatment (TOAST) classification system identifies 3 primary causes of ischemic stroke: large vessel disease, small vessel disease (lacunar), and cardioembolism.[10]",
+      "Large vessel disease encompasses conditions such as atherosclerosis, arterial dissection, and artery-to-artery embolism. When major arteries experience thrombotic or embolic occlusion, specific syndromes can manifest due to reduced blood flow to particular brain regions, which correlates with corresponding examination findings. Large vessels comprise intracranial arteries (including the circle of Willis and its proximal branches) and extracranial arteries (including common carotid, internal carotid, and vertebral arteries).[11][12]"
+    ],
+    "risk_factors": [
+      "Stroke ranks as the second leading cause of death worldwide and is a major contributor to disability. Ischemic strokes account for approximately 62% of all strokes, followed by ICH at 28% and SAH at 10%.[2][3][4]Although ischemic strokes are more prevalent, hemorrhagic strokes result in more fatalities and lost disability-adjusted life-years (DALYs).[3]",
+      "Between 1990 and 2019, ICH and SAH demonstrated more significant reductions worldwide in age-standardized rates per year, compared to ischemic stroke, for incident and prevalent strokes, deaths resulting from stroke, and DALYs due to stroke.[22]",
+      "Both men and women worldwide face an approximate lifetime risk of stroke of 25% starting from age 25. The risk is notably high in East Asia and Central and Eastern Europe.[23]"
+    ],
+    "treatments": [
+      "Airway, breathing, and oxygenation: Supplemental oxygen should be administered to patients to maintain the oxygen saturation above 94%. However, it is not recommended for nonhypoxic patients.",
+      "Blood pressure (BP): Patients with elevated BP should have their BP carefully reduced to a systolic BP (SBP) below 185 mm Hg and diastolic BP below 110 mm Hg before initiating IV fibrinolytic therapy. Following the treatment, the BP should be maintained below 180/105 mm Hg for at least 24 hours. Suppose a mechanical thrombectomy is planned, and the patient has not received IV fibrinolytic therapy. In that case, it is reasonable to maintain their BP at or below 185/110 mm Hg before the procedure and at or below 180/105 mm Hg during and for 24 hours after the procedure.",
+      "Temperature: In patients with AIS, hyperthermia (body temperature >38°C or 100.4°F) should be addressed by administering antipyretic medication.",
+      "Blood glucose: Both hypoglycemia (blood glucose level <60 mg/dL) and hyperglycemia (blood glucose levels within the range of 140 to 180 mg/dL) should be treated in patients with AIS.",
+      "IV alteplase: IV alteplase is recommended for patients with AIS at a dosage of 0.9 mg/kg, with the initial 10% given as a bolus over 1 minute (maximum dosage is 90 mg over 60 minutes). Eligible patients include those who meet the criteria within 3 hours or 3 to 4.5 hours of AIS witnessed symptom onset or when the patient was last known well or at baseline. The exact dosage can be administered within 4.5 hours to patients with AIS who awaken with stroke symptoms or have an unclear time of onset greater than 4.5 hours from when they were last known well or at baseline, and also for patients who have a DW-MRI lesion smaller than one-third of the middle cerebral artery (MCA) territory and no visible signal change on FLAIR. To mitigate the risk of bleeding, abciximab should not be administered concurrently with IV alteplase; IV aspirin should not be administered within 90 minutes after initiating IV alteplase; and IV alteplase should not be administered within 24 hours after a total treatment dosage of low-molecular-weight heparin.",
+      "Other IV fibrinolytics: In patients without contraindications who are eligible for mechanical thrombectomy, a single IV bolus of tenecteplase at 0.25 mg/kg (maximum 25 mg) can be administered instead of IV alteplase. However, IV defibrinogenating or IV fibrinolytic agents, other than alteplase and tenecteplase, are not recommended.",
+      "Mechanical thrombectomy: Patients eligible for IV alteplase should receive it, even if mechanical thrombectomy is being considered. However, if a patient fulfills all 6 of the following criteria, they should undergo mechanical thrombectomy using a stent retriever or direct aspiration: (1) pre-stroke modified Rankin Scale score of 0 to 1; (2) AIS caused by an occlusion in the internal carotid artery or MCA segment 1 (M1); (3) age 18 or older; (4) NIHSS score of 6 or higher; (5) Alberta Stroke Program Early CT Score (ASPECTS) of 6 or higher; and (6) treatment can be initiated within 6 hours of symptom onset.",
+      "Antiplatelet treatment: Aspirin administration is recommended within 24 to 48 hours after symptom onset. However, aspirin administration is typically delayed until 24 hours after treating a patient with IV alteplase. For patients diagnosed with minor, noncardioembolic ischemic stroke who have not received IV alteplase, it is appropriate to initiate dual antiplatelet therapy with aspirin and clopidogrel within 24 hours after symptom onset."
+    ],
+    "prevention": [
+      "Medical complications after stroke significantly cause morbidity and mortality if they are not appropriately anticipated, prevented, and managed.",
+      "Ischemic Stroke",
+      "Complications related to treating patients with IV alteplase include symptomatic intracranial hemorrhage (6%), major systemic hemorrhage (2%), and angioedema (5%).[11]Clinicians must be prepared to treat these potential emergent adverse effects before drug administration."
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK534866/",
+    "name": "Cardiac Arrest",
+    "source": "statpearls",
+    "definition": "As defined by the American Heart Association and the American College of Cardiology, \"(sudden) cardiac arrest is the sudden cessation of cardiac activity so that the victim becomes unresponsive, with no normal breathing and no signs of circulation. If corrective measures are not taken rapidly, this condition progresses to sudden death. Cardiac arrest should be used to signify an event as described above, that is reversed, usually by CPR and/or defibrillation or cardioversion, or cardiac pacing. Sudden cardiac death should not be used to describe events that are not fatal.\"[1]Each year, more than 400,000 Americans succumb to sudden cardiac death.[2]Those suffering from cardiac arrest may or may not have been previously diagnosed with heart disease. The cause of cardiac arrest varies by population and age, most commonly occurring in those with a previous diagnosis of heart disease. Most cardiac deaths are sudden and usually unexpected, which has proven to be uniformly fatal in the past. However, bystander cardiopulmonary resuscitation (CPR) and advances within emergency medical services (EMS) have proven life-saving interventions. Despite this, approximately 10% of those suffering from cardiac arrest leave the hospital alive, most of whom are neurologically impaired.[3]",
+    "symptoms": [
+      "In many patients, warning symptoms may precede a cardiac arrest. However, these symptoms are often unrecognized or ignored by the individual.[7]Many patients who survive cardiac arrest have amnesia, not allowing for the recollection of symptoms before an event. Data obtained from those who did not have amnesia, from family members, and/or from those who witnessed the event show that the most common symptom was chest pain.[7]Appropriately, this mirrors the most common presentations of acute coronary ischemia.",
+      "An individual found to be in cardiac arrest will be unresponsive, without a pulse, and will not be breathing. A quick head-to-toe assessment will help guide treatment."
+    ],
+    "causes": [
+      "Cardiac arrest is usually due to underlying structural cardiac disease. Seventy percent of cardiac arrest cases are thought to be due to ischemic coronary disease[2], the leading cause of cardiac arrest. Other structural causes include congestive heart failure, left ventricular hypertrophy, congenital coronary artery abnormalities, arrhythmogenic right ventricular dysplasia, hypertrophic obstructive cardiomyopathy, and cardiac tamponade. Nonstructural cardiac causes include Brugada syndrome, Wolf-Parkinson-White syndrome, and congenital long QT syndrome.",
+      "There are many non-cardiac etiologies, including intracranial hemorrhage, pulmonary embolism, pneumothorax, primary respiratory arrest, toxic ingestions, including drug overdose, electrolyte abnormalities, severe infection (sepsis), hypothermia, or trauma."
+    ],
+    "risk_factors": [
+      "Occlusive (ischemic) coronary disease is the leading cause of cardiac arrest and sudden cardiac death.[4]An initial peak of sudden death occurs from birth to 6 months of age, from sudden infant death syndrome. Incidence is typically very low until reaching a second peak between the ages of 45 and 75. Interestingly, the most common cause of cardiac death seen in adolescents and young adults mirrors that of middle-aged and older adults.[5]Within the United States, up to 70% of all sudden cardiac death is due to underlying coronary heart disease.[2]",
+      "The incidence of cardiac death is lower for women at a younger age when compared to males.[6]Despite the lower risk for women, risk factors for occlusive heart disease, such as hypertension, hyperlipidemia, diabetes, cigarette smoking, increasing age, and family history of coronary disease, continue to predispose women to cardiac death, as in males.[6]"
+    ],
+    "treatments": [
+      "A patient in cardiac arrest is treated in multiple stages. The interventions that have proven to reverse cardiac arrest include early CPR and early defibrillation. The initial step involves identification and basic life-support measures. If public access defibrillation is available, it should be activated and utilized if needed. Next, advanced life support measures are used, including intravenous or intraosseous medication administration. If return of spontaneous circulation (ROSC) is obtained, the patient will undergo post-resuscitation care with subsequent long-term management.",
+      "Identification of a cardiac arrest victim includes assuring that the patient is unresponsive, without central pulses, and not breathing normally. Once a victim is identified, immediate CPR and activation of the emergency response system should be a priority. More recently, public access defibrillation has added another layer of response.",
+      "Treatment of cardiac arrest depends on the rescuer's scope of practice:"
+    ],
+    "prevention": [
+      "Numerous complications can occur during a cardiac arrest. Although not common, the most detrimental complication for a patient in a shockable rhythm is AED failure.  Other complications include the inability to obtain IV/IO access. After ROSC, failing to secure and/ or maintain a definitive airway device could lead to a secondary cardiac arrest. During a traumatic etiology, malposition of needle thoracotomy or pericardiocentesis will also lead to complications."
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK507708/",
+    "name": "Deep Vein Thrombosis",
+    "source": "statpearls",
+    "definition": "Deep vein thrombosis (DVT) is an obstructive disease with a hindering venous reflux mechanism.[1]DVT usually involves the lower limb venous system, with clot formation originating in a deep calf vein and propagating proximally.[2]SeeImage.Deep Vein Thrombosis. It is a common venous thromboembolic (VTE) disorder with an incidence of 1.6 per 1000 annually.[3]The rate of particular site involvement depends on the anatomical location as follows, distal veins 40%, popliteal 16%, femoral 20%, common femoral 20%, and iliac veins 4%.[4] A deep-vein thrombosis (DVT) is a blood clot that forms within the deep veins, usually of the leg, but can occur in the arms and the mesenteric and cerebral veins. Deep-vein thrombosis is a common and important disease. It is part of the venous thromboembolism disorders, representing the third most common cause of death from cardiovascular disease after heart attacks and stroke. Even in patients who do not get pulmonary emboli, recurrent thrombosis and \"post-thrombotic syndrome\" are major causes of morbidity.[5][6][7]Deep-vein thrombosis is a major medical problem accounting for most cases of pulmonary embolism. Only through early diagnosis and treatment can the morbidity be reduced.",
+    "symptoms": [
+      "Pain (50% of patients)",
+      "Redness",
+      "Swelling (70% of patients)",
+      "Limb edema (may be unilateral or bilateral if the thrombus extends to pelvic veins)",
+      "Red and hot skin with dilated veins",
+      "Tenderness"
+    ],
+    "causes": [
+      "Reduced blood flow: Immobility (bed rest, general anesthesia, operations, stroke, long flights)[8][9]",
+      "Increased venous pressure: Mechanical compression or functional impairment leading to reduced flow in the veins (neoplasm, pregnancy, stenosis, or congenital anomaly which increases outflow resistance)[10]",
+      "Mechanical injury to the vein: Trauma, surgery, peripherally inserted venous catheters, previous DVT, intravenous drug abuse[11][12][11]",
+      "Increased blood viscosity: Polycythaemia rubra vera, thrombocytosis, dehydration[13]",
+      "Anatomic variations in venous anatomy can contribute to thrombosis",
+      "Genetic deficiencies: Anticoagulation proteins C and S, antithrombin III deficiency, factor V Leiden mutation[14][15][16]",
+      "Acquired: Cancer, sepsis, myocardial infarction, heart failure, vasculitis, systemic lupus erythematosus and lupus anticoagulant, inflammatory bowel disease, nephrotic syndrome, burns, oral estrogens, smoking, hypertension, diabetes[12][17]"
+    ],
+    "risk_factors": [
+      "Age: Deep-vein thrombosis is rare in children, and the risk increases with age, most occurring in the over-40 age group.[1]",
+      "Gender: There is no consensus about whether there is a sex bias in the incidence of DVT.",
+      "Ethnicity:There is evidence from the United States that there is an increased incidence of DVT and an increased risk of complications in African Americans and white people compared to Hispanic and Asian populations.",
+      "Associated diseases: In the hospital, the most commonly associated conditions are malignancy, congestive heart failure, obstructive airway disease, and patients undergoing surgery."
+    ],
+    "treatments": [
+      "The preferred anticoagulant to address DVT in cancer-associated thromboembolism is low molecular weight heparin and factor Xa inhibitors, including rivaroxaban.[39]However, in the following circumstances, the higher levels of anticoagulation should be considered: 1. recently diagnosed cancer, 2. extensive VTE circumstances, and 3. cancer treatment-related adverse effects, including vomiting.[40]",
+      "In circumstances where once-daily oral therapy is the preferred management, the following options are viable; 1. rivaroxaban, 2. edoxaban, and 3. vitamin-K antagonist (VKA)",
+      "In the context of liver disease, DVT should be managed with low-molecular-weight heparin.[41]Direct oral anticoagulants (DOACs) are contraindicated in raised INR levels.",
+      "In patients with renal disease suppressed creatinine clearance to less than 30 ml/min, VKAs are recommended. DOACs and LMWH should be avoided in patients with end-stage renal disease.",
+      "In patients with a remarkable past medical history of coronary artery disease, the following alternatives are recommended: 1. VKA, 2. rivaroxaban, 3. apixaban, and 4. edoxaban.[42]",
+      "In patients with remarkable dyspepsia or any past medical history suggestive of gastrointestinal bleeding, VKA, and apixaban are the preferred treatments. It should be noted that DOCAs, eg, dabigatran, factor Xa inhibitors, eg, rivaroxaban, and selective factor Xa inhibitors, eg, edoxaban, might be associated with higher rates of gastrointestinal bleeding.[43][44][45]",
+      "In the group of patients with a history compatible with poor compliance, VKA is preferred. However, it should be noted that some patients might still be highly compliant with other alternatives, including DOACs.[46]",
+      "If thrombolytic therapy is indicated, unfractionated heparin is indicated.[47]",
+      "In patients who might later be subjected to reversal of thrombolytic therapy, it should be noted that reversal agents for DOACs are not universally available.",
+      "Since most anticoagulants have the potential to cross the placenta, the preferred anticoagulation therapy during pregnancy is LMWH.",
+      "Prescribe low-molecular-weight heparin or fondaparinux for 5 days or until the international normalized ratio (INR) is greater than 2 for 24 hours (unfractionated heparin for patients with renal failure and increased risk of bleeding).",
+      "Supplement with vitamin K antagonists for 3 months.",
+      "In patients with cancer, consider anticoagulation for 6 months with low-molecular-weight heparin.",
+      "In patients with unprovoked DVT, consider vitamin K antagonists beyond 3 months.",
+      "Rivaroxaban is an oral factor Xa inhibitor that has recently been approved by the Food and Drug Administration and NICE and is attractive because there is no need for regular INR monitoring.",
+      "If the platelet count drops to less than 75,000, switch from heparin to fondaparinux, which is not associated with heparin-induced thrombocytopenia.",
+      "Symptomatic iliofemoral DVT",
+      "Symptoms of less than 14 days duration",
+      "Good functional status",
+      "A life expectancy of 1 year or more",
+      "Low risk of bleeding",
+      "Compression hosiery: Below-knee graduated compression stockings with an ankle pressure greater than 23 mm Hg for 2 years if there are no contraindications",
+      "Inferior vena cava filters: If anticoagulation is contraindicated or if emboli are occurring despite adequate anticoagulation"
+    ],
+    "prevention": [
+      "Pulmonary emboli (paradoxical emboli if an atrial-septal defect is present)",
+      "Post-thrombotic syndrome",
+      "Bleeding from the use of anticoagulants"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560551/",
+    "name": "Pulmonary Embolism",
+    "source": "statpearls",
+    "definition": "Acute pulmonary embolism (PE) is a life-threatening condition that occurs when a blood clot that has arisen from a different area obstructs the pulmonary arteries. Most commonly, PE originates from a deep vein thrombosis (DVT) in the lower extremities. PE usually occurs when a part of this thrombus breaks off and enters the pulmonary circulation. PE rarely occurs from embolizing other materials into the pulmonary circulation, eg, air, fat, or tumor cells.[1]Together, PE and DVT comprise venous thromboembolism (VTE), a significant cause of morbidity and mortality worldwide. Risk factors for PE include genetic predispositions like thrombophilia and acquired conditions, including prolonged immobility, surgery, and malignancy. Despite advancements in diagnostic tools and treatment options, the nonspecific symptoms of PE (eg, dyspnea, chest pain, and syncope) often overlap with other cardiovascular and respiratory conditions, making timely diagnosis challenging for clinicians. Prompt recognition and management of PE are critical, as delayed intervention can lead to severe complications, including hemodynamic instability, right ventricular failure, and sudden death. Risk stratification tools such as the Wells criteria and Geneva score, alongside diagnostic imaging, are essential for accurate diagnosis. However, the underutilization of these tools, coupled with variations in therapeutic approaches, underscores the need for standardized clinical protocols. Clinicians can improve patient outcomes through enhanced knowledge and proficiency in identifying risk factors, employing diagnostic strategies, and initiating evidence-based treatments.",
+    "symptoms": [
+      "Clinical History",
+      "A timely diagnosis of PE is crucial because of the high associated mortality and morbidity, which may be prevented with early treatment. Notably, 30% of untreated patients with PEs die, while only 8% die after timely therapy.[22][23]Unfortunately, diagnosing PE can be difficult due to the variety of nonspecific clinical signs and symptoms in patients with acute PE. The most common symptoms of PE include dyspnea, pleuritic chest pain, cough, hemoptysis, presyncope, and syncope. Dyspnea may be acute and severe in a central PE, whereas mild and transient dyspnea is observed in small peripheral PE. In patients with preexisting heart failure or pulmonary disease, worsening dyspnea may be the only symptom. Chest pain is a frequent symptom usually caused by pleural irritation due to distal emboli causing pulmonary infarction.[24]In central PE, chest pain may be from underlying right ventricular ischemia and needs to be differentiated from an acute coronary syndrome or aortic dissection.",
+      "Less common presentations include arrhythmias (eg, atrial fibrillation), syncope, and hemodynamic collapse.[25]Hemodynamic instability is a rare but essential form of clinical presentation, as it indicates central or extensive PE with severely reduced hemodynamic reserve. Syncope may occur and may be associated with a higher prevalence of hemodynamic instability and right ventricular dysfunction.[26]Recognizing that patients with large PE may sometimes be asymptomatic or have mild symptoms is crucial. PE may often be asymptomatic or discovered incidentally during diagnostic workup for another disease. Therefore, in addition to PE symptoms, clinicians should look for VTE risk factors to determine the clinical probability of PE."
+    ],
+    "causes": [
+      "Fracture of lower limb",
+      "Hospitalization for heart failure or atrial fibrillation/flutter within the previous 3 months",
+      "Hip or knee replacement",
+      "Major trauma",
+      "History of previous venous thromboembolism",
+      "Central venous lines",
+      "Chemotherapy",
+      "Congestive heart failure or respiratory failure",
+      "Hormone replacement therapy",
+      "Oral contraceptive therapy",
+      "Postpartum period",
+      "Infection (specifically pneumonia, urinary tract infection, and HIV)",
+      "Cancer (highest risk in metastatic disease)",
+      "Thrombophilia",
+      "Bed rest longer than 3 days",
+      "Obesity",
+      "Pregnancy"
+    ],
+    "risk_factors": [
+      "Acute PE incidence ranges from 39 to 115 per 100,000 population annually; for DVT, the incidence ranges from 53 to 162 per 100,000 people.[12]After coronary artery disease and stroke, acute PE is the third most common type of cardiovascular disease.[13]Furthermore, the incidence of acute PE is higher in males than females.[14]PE complicated by pulmonary infarction occurs at a rate of 16% to 31%.[7]",
+      "Overall, PE-related mortality is high, and in the United States, PE causes 100,000 deaths annually.[14]However, the mortality rates attributable to PE are challenging to estimate accurately because many patients with sudden cardiac death are thought to have had a thromboembolic event like PE. The case-fatality rates of PE have decreased, likely due to improved diagnostic methods, early interventions, and therapies."
+    ],
+    "treatments": [
+      "Initial Management of Acute Pulmonary Embolus",
+      "Supportive measures",
+      "The initial approach to patients with PE should focus on supportive measures. Supplemental oxygen is indicated in patients with oxygen saturation <90%. Mechanical ventilation (noninvasive or invasive) should be utilized in unstable patients, but clinicians should be mindful of the adverse hemodynamic effects of mechanical ventilation."
+    ],
+    "prevention": [
+      "Recurrent thromboembolism",
+      "Chronic thromboembolic pulmonary hypertension",
+      "Right heart failure",
+      "Cardiogenic shock"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542257/",
+    "name": "Endocarditis",
+    "source": "statpearls",
+    "definition": "",
+    "symptoms": [],
+    "causes": [],
+    "risk_factors": [],
+    "treatments": [],
+    "prevention": []
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537076/",
+    "name": "Cardiomyopathy",
+    "source": "statpearls",
+    "definition": "Myocardial infarction (MI), colloquially known as “heart attack,” is caused by decreased or complete cessation of blood flow to a portion of the myocardium. Myocardial infarction may be “silent” and go undetected, or it could be a catastrophic event leading to hemodynamic deterioration and sudden death.[1]Most myocardial infarctions are due to underlying coronary artery disease, the leading cause of death in the United States. With coronary artery occlusion, the myocardium is deprived of oxygen. Prolonged deprivation of oxygen supply to the myocardium can lead to myocardial cell death and necrosis.[2]Patients can present with chest discomfort or pressure that can radiate to the neck, jaw, shoulder, or arm. In addition to the history and physical exam, myocardial ischemia may be associated with ECG changes and elevated biochemical markers such as cardiac troponins.[3][4]",
+    "symptoms": [
+      "The imbalance between oxygen supply and the demand leads to myocardial ischemia and can sometimes lead to myocardial infarction. The patient’s history, electrocardiographic findings, and elevated serum biomarkers help identify ischemic symptoms. Myocardial ischemia can present as chest pain, upper extremity pain, mandibular, or epigastric discomfort that occurs during exertion or at rest. Myocardial ischemia can also present as dyspnea or fatigue, which are known to be ischemic equivalents.[14]The chest pain is usually retrosternal and is sometimes described as the sensation of pressure or heaviness. The pain often radiates to the left shoulder, neck, or arms with no obvious precipitating factors, and it may be intermittent or persistent. The pain usually lasts for more than 20 minutes.[15]It is usually not affected by positional changes or active movement of the region. Additional symptoms, such as sweating, nausea, abdominal pain, dyspnea, and syncope, may also be present.[14][16][17]The MI can also present atypically with subtle findings such as palpitations, or more dramatic manifestations, such as cardiac arrest. The MI can sometimes present with no symptoms.[18]"
+    ],
+    "causes": [
+      "As stated above, myocardial infarction is closely associated with coronary artery disease. INTERHEART is an international multi-center case-control study which delineated the following modifiable risk factors for coronary artery disease:[5][6]",
+      "The INTERHEART study showed that all the above risk factors were significantly associated with acute myocardial infarction except for alcohol consumption, which showed a weaker association. Smoking and abnormal apolipoprotein ratio showed the strongest association with acute myocardial infarction. The increased risk associated with diabetes and hypertension were found to be higher in women, and the protective effect of exercise and alcohol was also found to be higher in women.[5]",
+      "Other risk factors include a moderately high level of plasma homocysteine, which is an independent risk factor of MI. Elevated plasma homocysteine is potentially modifiable and can be treated with folic acid, vitamin B6, and vitamin B12.[7]"
+    ],
+    "risk_factors": [
+      "4.0% (Male)",
+      "2.4% (Female)",
+      "3.3% (Male)",
+      "2.2% (Female)",
+      "2.9% (Male)",
+      "2.1% (Female)",
+      "2.6% (Male)",
+      "0.7% (Female)"
+    ],
+    "treatments": [
+      "Acute Management",
+      "Reperfusion therapy is indicated in all patients with symptoms of ischemia of less than 12-hours duration and persistent ST-segment elevation. Primary percutaneous coronary intervention (PCI) is preferred to fibrinolysis if the procedure can be performed <120 minutes of ECG diagnosis. If there is no immediate option of PCI (>120 minutes), fibrinolysis should be started within 10 minutes of STEMI after ruling out contraindications. If transfer to a PCI center is possible in 60 to 90 minutes after a bolus of the fibrinolytic agent and patient meets reperfusion criteria, a routine PCI can be done, or a rescue PCI can be planned.[19][17]If fibrinolysis is planned, it should be carried out with fibrin-specific agents such as tenecteplase, alteplase, or reteplase (class I).[19]",
+      "Relief of pain, breathlessness, and anxiety:The chest pain due to myocardial infarction is associated with sympathetic arousal, which causes vasoconstriction and increased workload for the ischemic heart. Intravenous opioids (e.g., morphine) are the analgesics most commonly used for pain relief (Class IIa).[19]The results from CRUSADE quality improvement initiative have shown that the use of morphine may be associated with a higher risk of death and adverse clinical outcomes.[22]The study was done from the CIRCUS (Does Cyclosporine Improve outcome in STEMI patients) database, which showed no significant adverse events associated with morphine use in a case of anterior ST-segment elevation MI.[23]A mild anxiolytic (usually a benzodiazepine) may be considered in very anxious patients (class IIa). Supplemental oxygen is indicated in patients with hypoxemia (SaO2 <90% or PaO2 <60mm Hg) (Class I).[19]"
+    ],
+    "prevention": [
+      "Reinfarction",
+      "Extension of infarction",
+      "Angina",
+      "Supraventricular or ventricular arrhythmia",
+      "Sinus bradycardia and atrioventricular block",
+      "Myocardial dysfunction",
+      "Cardiac failure",
+      "Cardiogenic shock",
+      "Cardiac rupture (Free wall rupture, ventricular septal rupture, papillary muscle rupture)",
+      "Left ventricular mural thrombus,",
+      "Peripheral embolus",
+      "Pericarditis (infarct associated pericarditis, late pericarditis, or post-cardiac injury pericarditis)",
+      "Pericardial effusion"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482433/",
+    "name": "Aortic Stenosis",
+    "source": "statpearls",
+    "definition": "Cholinergic toxicity results from excessive stimulation of nicotinic and muscarinic receptors at neuromuscular junctions and synapses, typically due to inhibition of acetylcholinesterase (AChE), the enzyme that degrades the neurotransmitter acetylcholine (ACh) in the synaptic cleft. The resulting accumulation of ACh causes symptoms such as cramps, increased salivation, lacrimation, muscular weakness, paralysis, fasciculations, diarrhea, and blurry vision.[1][2][3]In clinical practice, cholinergic toxicity is most commonly associated with myasthenia gravis treated with high-dose AChE inhibitors, reversal of neuromuscular blockade after general anesthesia, and exposure to AChE-inactivating chemical xenobiotics such as nerve agents (eg, Sarin, Tabun, and Soman), pesticides, and insecticides.",
+    "symptoms": [
+      "Salivation",
+      "Lacrimation",
+      "Urinary frequency",
+      "Diarrhea",
+      "Gastrointestinal cramping and pain",
+      "Emesis",
+      "Miosis",
+      "Diaphoresis and diarrhea",
+      "Urinary frequency",
+      "Miosis",
+      "Bronchospasm and bronchorrhea",
+      "Emesis",
+      "Lacrimation",
+      "Salivation"
+    ],
+    "causes": [
+      "Cholinergic toxicity can arise from various causes. The most commonly encountered scenarios are discussed below.",
+      "Overmedication in Myasthenia Gravis Treatment",
+      "Myasthenia gravis is an autoimmune condition that affects the neuromuscular junction by producing autoantibodies against ACh receptors at the postsynaptic membrane.[4]This disorder is characterized by generalized weakness or easy fatigability, which can rapidly progress to respiratory failure.[5]Another form of myasthenia gravis, commonly seen in women, is associated with the production of antibodies against muscle-specific tyrosine kinase (MuSK).[6][7]"
+    ],
+    "risk_factors": [
+      "Epidemiological data on cholinergic crisis is limited. However, the condition is commonly observed in both the pediatric population and patients with myasthenia gravis. In children, cholinergic crisis typically arises from accidental exposure to or ingestion of organophosphates, with those living in rural areas being at particularly high risk. Since 2013, stricter federal regulations in the United States have been implemented to control the sale of organophosphates.",
+      "Globally, approximately 3 million people are exposed to organophosphate poisoning annually, resulting in around 220,000 deaths.[19]Poisoning occurs from the accidental or intentional ingestion of agricultural insecticides or pesticides. In cases of cholinergic crisis due to organophosphates, contamination may also occur through food products such as wheat, flour, cooking oil, fruits, and vegetables.",
+      "Since World War II, the production of nerve agents such as Sarin and Tabun has been restricted. Manufacturing these agents has been considered a war crime under the Geneva Convention of 1925. This decline in production has led to a significant reduction in nerve gas poisoning incidents in recent years. The most recent large-scale use of nerve gas occurred in Syria in 2013."
+    ],
+    "treatments": [
+      "The treatment of cholinergic crisis follows a structured approach divided into 3 stages: prehospital care, emergency department management, and inpatient care. Effective management at each stage is vital to minimize complications and improve recovery.",
+      "Prehospital Care",
+      "Prehospital care focuses on stabilizing the patient and removing the toxic agent. If insecticide exposure is suspected, decontamination should begin immediately, and all clothing should be removed to prevent ongoing contamination and protect first responders from cross-contamination."
+    ],
+    "prevention": [
+      "Complications in cholinergic crisis arise from the overstimulation of both muscarinic and nicotinic receptors, affecting multiple systems within the body. In the respiratory system, complications include respiratory failure due to profound weakness of the respiratory muscles, aspiration pneumonia from hypersalivation and bronchorrhea, and severe bronchospasm. The cardiovascular system may develop bradycardia, hypotension, hypertension, and arrhythmias. CNS manifestations may include hallucinations, psychosis, seizures, and altered mental status. In the gastrointestinal system, electrolyte abnormalities can occur as a result of gastrointestinal losses from vomiting and diarrhea."
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK507799/",
+    "name": "Atherosclerosis",
+    "source": "statpearls",
+    "definition": "Atherosclerosis is a chronic inflammatory disease of the arteries and is the underlying cause of about 50% of all deaths in westernized society. It is principally a lipid-driven process initiated by the accumulation of low-density lipoprotein and remnant  lipoprotein particles and an active inflammatory process in focal areas of arteries particularly at regions of disturbed non-laminar flow at branch points in the arteries and is considered a primary cause of atherosclerotic cardiovascular disease (ASCVD) resulting in heart attacks, stroke and peripheral arterial disease. In this review, we outline the vascular biology, sequelae and potential management.[1][2][3]",
+    "symptoms": [
+      "Examination for blood pressure and the peripheral pulses, listening for bruits (carotids and abdomen), pulsatile abdominal masses, heart failure, supra-valvar aortic stenosis, xanthomas."
+    ],
+    "causes": [
+      "ASCVD is of multifactorial etiology. The most common risk factors include hypercholesterolemia (LDL-cholesterol), hypertension, diabetes mellitus, cigarette smoking, age (male older than 45 years and female older than 55 years), male gender, and strong family history (male relative younger than 55 years and female relative younger than 65 years. Also, a sedentary lifestyle, obesity, diets high in saturated and trans-fatty acids, and certain genetic mutations contribute to risk. While a low level of high-density lipoprotein (HDL)-cholesterol is considered a risk factor, pharmacological therapy increasing HDL-cholesterol has yielded negative results raising concerns about the role of HDL in ASCVD.[4][5][6]"
+    ],
+    "risk_factors": [
+      "Since atherosclerosis is a predominantly asymptomatic condition, it is difficult to determine the incidence accurately. Atherosclerosis is considered the major cause of cardiovascular diseases. Atherosclerotic cardiovascular disease mainly involves the heart and brain: ischemic heart disease (IHD) and ischemic stroke. IHD and stroke are the world's first and fifth causes of death respectively.[7][8][9][10]",
+      "In the United States, about 610,000 people die of heart disease every year. That is 1 of every 4 deaths. Coronary heart disease is the leading cause of death in the Western world killing over 370,000 people annually. On an average, about 735,000 Americans have a  heart attack every year. Out of these, 525,000 have an initial attack, and 210,000 have a recurrent attack. It has been reported that 75% of acute myocardial infarctions occur from plaque rupture and the highest incidence of plaque rupture was observed in men over 45 years; whereas, in women, the incidence increases beyond age 50 years. This higher prevalence of atherosclerosis in men compared to women is attributed to the protective function of female sex hormones but is lost after menopause.",
+      "Stroke from any cause represents the fifth leading cause of death and the major cause of serious long-term disability in adults in the United States. It is reported that nearly 795,000 people suffer from stroke every year in the US resulting in about 140,323 deaths. The major form of stroke, ischemic stroke is due to ASCVD."
+    ],
+    "treatments": [
+      "The best management of ASCVD is to treat the risk factors such as elevated LDL-C, blood pressure (BP), diabetes, among others. Also, all patients should be encouraged to exercise for 90 to 150 minutes and eat a healthy diet low in saturated (red and processed meat, organ meats, and the like) and trans fats (baked goods), salt intake less than 5 grams per day with enrichment in fiber, monounsaturated fats, fatty fish, fruits, and vegetables. Smokers should be encouraged to stop and be referred to a smoking cessation program.[11][12][13][14]",
+      "The 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors (statins) are the mainstay to lower LDL cholesterol and reduce cardiovascular events and mortality. To control BP, 2 or more drug classes are required including angiotensin-converting enzyme (ACEs) inhibitors, angiotensin II receptor blockers (ARBs), diuretics, beta-blockers, and calcium channel blockers (CCB) and vasodilators. It should be emphasized to the patient that good BP control prevents stroke, and desirable BP is less than 130/85. In addition to diet and exercise, there are numerous therapies to manage diabetes. The goal is to keep the glycated hemoglobin (HbA1c) below 7%, BP below 130/85, and LDL-cholesterol below 100 mg/dl in primary prevention.",
+      "For clinical ASCVD, revascularization procedures are warranted such as angioplasties, bypass, among others. Also, thrombolysis is also a therapeutic option for CVA, acute limb ischemia from a thrombus/embolus."
+    ],
+    "prevention": [
+      "ASCVD can present as coronary artery disease (CAD), cerebrovascular disease (CVA), transient ischemic attack (TIA), peripheral artery disease (PAD), and abdominal aneurysms, and renal artery stenosis in males. This article has included the management of risk factors and tests required to assess for ASCVD complications. Further details are beyond the purview of this review on atherosclerosis but are detailed in other chapters in this series."
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK431080/",
+    "name": "Pericarditis",
+    "source": "statpearls",
+    "definition": "The pericardium is a double-layered, fibroelastic sac surrounding the heart, consisting of a visceral layer over the epicardium and a richly innervated parietal layer, separated by a potential space that normally holds 15 to 50 mL of serous fluid.[1][2]Pericarditis refers to inflammation of the pericardial sac surrounding the heart and is the most common pathological condition affecting the pericardium.[3]This condition can be classified into acute, incipient or subacute, chronic, and recurrent pericarditis, which is estimated to occur in about 15% to 30% of cases.[3]Pericarditis may also present alongside other pericardial syndromes, including pericardial effusion, cardiac tamponade, constrictive pericarditis, and effusive-constrictive pericarditis.[2][4][5][6][7] Pericardial inflammation often leads to fluid accumulation within the pericardial sac, resulting in a pericardial effusion, which can be serous, hemorrhagic, or purulent, depending on the etiology. The fluid accumulation can become hemodynamically significant, especially if the effusion is large or accumulates rapidly, as the fluid may extrinsically compress the cardiac chambers, restrict diastolic filling, and lead to cardiac tamponade.[2][4]This condition can present with obstructive shock and is considered a medical emergency that requires immediate intervention.",
+    "symptoms": [
+      "Clinical Features",
+      "Pericarditis is classified based on duration. Acute pericarditis lasts less than 4 to 6 weeks, incessant pericarditis persists beyond 4 to 6 weeks but resolves within 3 months, and chronic pericarditis extends beyond 3 months. Recurrent pericarditis refers to a new episode that occurs following a symptom-free interval of 4 to 6 weeks between episodes.[27]",
+      "Acute pericarditis accounts for approximately 5% of nonischemic chest pain presentations in emergency departments and 0.1% of inpatient admissions.[27]The classical presentation involves central, severe chest pain that is pleuritic (worsens with deep inspiration) and positional (improves with sitting up and leaning forward). The pain may radiate to the trapezius ridges if the phrenic nerve is inflamed as it passes through the pericardium.[27][29]When myocarditis is also present, the pain may be less specific, with symptoms of heart failure (eg, shortness of breath) potentially accompanying the presentation.[30]"
+    ],
+    "causes": [
+      "The 2015 European Society of Cardiology (ESC) guidelines for diagnosing and managing pericardial diseases categorize the causes of acute pericarditis into 2 main groups—infectious and noninfectious.[9]",
+      "Infectious Causes of Pericarditis",
+      "Viruses are the most common infectious agents causing pericarditis, including coxsackieviruses A and B, echoviruses, adenoviruses, parvovirus B19, HIV, influenza, and several herpesviruses, eg, Epstein-Barr virus (EBV) and cytomegalovirus (CMV).[9][10]"
+    ],
+    "risk_factors": [
+      "The yearly incidence of acute pericarditis reaches approximately 0.03% within the general population. About 10% of affected individuals may require hospitalization, while 15% to 30% may experience recurrent episodes. This condition occurs more frequently in young males and represents the most common form of inflammatory heart disease.[25]"
+    ],
+    "treatments": [
+      "Acute Pericarditis Management",
+      "Treatment for acute pericarditis begins with addressing the underlying cause. Patients with uremic pericarditis should receive more frequent dialysis, while those with malignancy or tuberculosis require therapy targeted at the primary disease. For tuberculosis, the standard treatment involves a quadruple antibiotic regimen (rifampicin, isoniazid, pyrazinamide, and ethambutol) for at least 2 months, followed by isoniazid and rifampicin for a total of 6 months. This may be combined with adjunctive high-dose prednisolone, as previously discussed.[47]",
+      "Most patients will have idiopathic acute pericarditis, which can be safely managed on an outpatient basis with medical therapy alone. Activity restrictions beyond a sedentary lifestyle are advised until symptoms resolve or cardiac enzyme levels normalize.[51]Patients exhibiting markers of poor prognosis or those who do not respond to therapy within 1 week should be admitted for further evaluation. These markers include fever (>38 °C), a subacute or recurrent presentation, the presence of a large pericardial effusion (>20 mm in thickness), or echocardiographic signs of cardiac tamponade physiology (eg, right ventricular diastolic collapse, a transmitral flow respirophasic variation of more than 25% throughout the respiratory cycle, and a dilated inferior vena cava with inspiratory collapse of less than 50%, indicating elevated right atrial filling pressures).[51][52]Minor risk markers include immunosuppression, trauma, or myopericarditis, where patients exhibit troponin elevation alongside elevated inflammatory markers."
+    ],
+    "prevention": [
+      "Up to 30% of patients who are not treated with colchicine may experience recurrent pericarditis. Constrictive pericarditis is exceedingly rare following idiopathic acute pericarditis, occurring in <1% of cases. However, the risk of constrictive pericarditis increases with specific etiologies, particularly purulent bacterial or tuberculosis pericarditis, where the incidence of constrictive pericarditis may rise to as high as 30%.[60][61]Cardiac tamponade, the most feared acute complication, rarely occurs after idiopathic pericarditis but is more commonly associated with malignancy and infectious causes of pericarditis.[62]"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK493201/",
+    "name": "Bradycardia",
+    "source": "statpearls",
+    "definition": "The sinoatrial node (SA) is the default pacemaker and, therefore, a crucial component of the heart's conduction system. It is located subepicardial and is crescent in shape. In an average adult, a sinoatrial node is 13.5 millimeters in length and is innervated by the vagus and sympathetic nerves. The sinoatrial nodal artery supplies blood to the sinoatrial node, it branches off the right coronary artery in 60% of cases, whereas in 40% of cases, it comes off the left circumflex coronary artery.[1][2]Sinus bradycardia is a cardiac rhythm with appropriate cardiac muscular depolarization initiating from the sinus node generating less than 60 beats per minute (bpm). The diagnosis of sinus bradycardia requires visualization of an electrocardiogram showing a normal sinus rhythm at a rate lower than 60 bpm. Where a normal sinus rhythm has the following criteria[3][4]:",
+    "symptoms": [
+      "Cyanosis",
+      "Peripheral edema",
+      "An altered state of consciousness",
+      "Dyspnea",
+      "Rales and crackles"
+    ],
+    "causes": [
+      "Chest trauma",
+      "Ischemic heart disease",
+      "Acute myocardial infarction",
+      "Acute and chronic coronary artery disease",
+      "Repair of congenital heart disease",
+      "Sick sinus syndrome",
+      "Radiation therapy",
+      "Amyloidosis",
+      "Pericarditis",
+      "Lyme disease",
+      "Rheumatic fever",
+      "Collagen vascular disease",
+      "Myocarditis",
+      "Neuromuscular disorder",
+      "X-linked muscular dystrophy",
+      "Familial disorder",
+      "Inherited channelopathy",
+      "Vasovagal simulation (endotracheal suctioning)",
+      "Carotid sinus hypersensitivity",
+      "Beta-blockers",
+      "Calcium channel blockers",
+      "Digoxin",
+      "Ivabradine",
+      "Clonidine",
+      "Reserpine",
+      "Adenosine",
+      "Cimetidine",
+      "Antiarrhythmic class I to IV",
+      "Lithium",
+      "Amitriptyline",
+      "Narcotics",
+      "Cannabinoids",
+      "Hypothyroidism",
+      "Sleep apnea",
+      "Hypoxia",
+      "Intracranial hypertension",
+      "Hyperkalemia",
+      "Anorexia nervosa"
+    ],
+    "risk_factors": [
+      "In clinical practice, adults over the age of 65 and young athletes of both sexes are commonly known to present with sinus bradycardia. One in 600 adults over 65 has sinus node dysfunction, but more research needs to be done to collect epidemiologic data within the United States and globally for patients with sinus bradycardia.[11]"
+    ],
+    "treatments": [
+      "A patient with sinus bradycardia should be evaluated for hemodynamic instability. If found to be hemodynamically unstable, the patient can be treated with intravenous (IV) atropine 0.5 mg push every 3 to 5 minutes up to 3 mg total. If the patient's symptoms and heart rate do not improve, the patient is a candidate for a temporary pacemaker. If the patient on arrival is hemodynamically stable but has signs and symptoms of acute myocardial infarction, they should be treated for an acute myocardial infarction appropriately.",
+      "Hypothermic patients should be warmed to normothermia before making definitive decisions on treatment.",
+      "While management decisions are being made for a patient with sinus bradycardia, the patient's medication list should also be reviewed for possible causes of bradycardia, and those medications should be withdrawn if possible. If a patient has comorbid conditions that require him to be on certain medications, which may be causing the sinus bradycardia, then in that case-patient may be a candidate for a permanent pacemaker. In cases where medication can be withdrawn, withdrawal is made, and if symptoms and heart rate still do not improve, then the patient may be evaluated for a permanent pacemaker.[16]"
+    ],
+    "prevention": [
+      "If not identified promptly symptomatic complications such as syncope, fatigue or dizziness can occur."
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK549803/",
+    "name": "Tachycardia",
+    "source": "statpearls",
+    "definition": "The electrocardiogram (abbreviated as ECG or EKG) represents an electrical tracing of the heart and is recorded non-invasively from the surface of the body. The word ECG derives from the German language. In German, it is elektro-kardiographie. In 1902, the Dutch physician Einthovan invented ECG, and his tremendous input in clinical studies for about ten years led to full recognition of the clinical potential of the technique.[1] Many arrhythmias and ECG changes associated with angina and atherosclerosis were identified by 1910. William Einthoven was named the \"father of electrocardiography\" and was awarded Nobel Prize in Medicine in 1924 for his hard work that laid the foundation of the most fundamental technique for investigating heart disorders. ECG was soon recognized as a robust screening and clinical diagnostic tool, and today it is used globally in almost every healthcare setting.[2]",
+    "symptoms": [],
+    "causes": [],
+    "risk_factors": [],
+    "treatments": [
+      "V1 is placed to the right of the sternal border, and V2 is situated to the left of the sternal edge.",
+      "V4 is placed at the level of the fifth intercostal space in the mid-clavicular line. V4 should be placed before V3. V3 is placed between V2 and V4.",
+      "V5 is placed directly between V4 and V6.",
+      "V6 is placed at the level of the fifth intercostal space in the mid-axillary line.",
+      "V4 through V6 should line up horizontally along with the fifth intercostal space."
+    ],
+    "prevention": [
+      "An electrocardiogram is a safe, non-invasive, painless test with no major risks or complications. An allergic reaction or skin sensitivity to the adhesive gel can occur and usually resolves as soon as the electrode patches are removed and, in most cases, do not require any treatment. Artifacts and distortions pose serious diagnostic difficulties and may result in an inaccurate interpretation of the ECGs, potentially resulting in an adverse therapeutic intervention.[23][24]",
+      "There can be a potential for misdiagnosis due to the inadvertent misplacement of ECG leads.[25][26]"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK562310/",
+    "name": "Angina",
+    "source": "statpearls",
+    "definition": "The lower urinary tract (LUT) consists of the bladder and urethra and allows for the low-pressure storage of urine with conscious control of micturition. Urodynamics is the measurement of the relevant physiological parameters of the LUT to assess its function and dysfunction. Clinicians can perform urodynamics noninvasively and invasively. The standard urodynamic test includes both forms of assessment. The test involves noninvasive evaluation of bladder emptying, and invasive assessments of bladder storage function and bladder emptying function.[1] Invasive monitoring utilizes the insertion of catheters into the bladder and other body cavities. A clear question should, therefore, be posed and answered when performing standard urodynamic testing, and its results should guide therapeutic intervention.[2]Urodynamic testing is a collaborative and dynamic investigation involving both the patient and clinician and should incorporate clear communication and open cooperation.",
+    "symptoms": [],
+    "causes": [],
+    "risk_factors": [],
+    "treatments": [],
+    "prevention": [
+      "Dysuria",
+      "Hematuria",
+      "Urinary tract infection",
+      "Urinary retention",
+      "Inability to catheterize the bladder",
+      "Failure of diagnosis",
+      "Known neurogenic LUT dysfunction",
+      "Elevated PVR",
+      "Asymptomatic bacteriuria",
+      "Immunosuppression",
+      "Age over 70",
+      "Patients with an indwelling catheter or external urinary collection device",
+      "Patients who perform intermittent catheterization"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK557482/",
+    "name": "Peripheral Artery Disease",
+    "source": "statpearls",
+    "definition": "Peripheral vascular disease (PVD) includes peripheral arterial disease (PAD) and venous disease. PAD is a chronic progressive atherosclerotic disease leading to partial or total peripheral vascular occlusion. PAD typically affects the abdominal aorta, iliac arteries, lower limbs, and occasionally the upper extremities.[1]PAD affects nearly 200 million people worldwide with increasing global importance due to longer life expectancy and prolonged risk factor exposure.[2][3]Patients with PAD have a variable disease presentation and course with some patients remaining asymptomatic and with others progressing to arterial ulceration, claudication, resting limb ischemia, and limb loss.[4]PAD is a cardiovascular disease equivalent, with associated high risk fatal and non-fatal cardiovascular events frequently occurring, such as myocardial infarction and stroke.[5]PAD is a progressive, debilitating systemic disease that requires interprofessional involvement for improved patient outcomes.",
+    "symptoms": [
+      "Diagnosis of peripheral vascular disease can be difficult due to the increasing prevalence of similarly presenting comorbid conditions and large numbers of patients having an asymptomatic or atypical presentation.[24]The clinical presentation of PAD is often dependent on the severity of arterial insufficiency and the presence of comorbid conditions, which may alter or mask the symptoms of underlying vascular disease.",
+      "Atypical presentation of PAD occurs when patients have existing comorbidities such as lumbosacral disease, spinal stenosis, or advanced diabetes mellitus - all of which may alter the perception of pain. Atypical pain is characterized by pain unrelated to physical activity, pain that occurs both at rest and exertion, and pain lasting longer than 10 minutes after exercise cessation.[25]Pseudo claudication refers to neuropathic pain observed in patients with spinal stenosis and can be differentiated from PAD with a thorough history and physical examination. Patients with pseudo claudication tend to have pain characterized by weakness and paresthesias that is irrespective of the degree of physical activity and usually is relieved by sitting down or changing body positioning rather than rest.[20]",
+      "Patients with hemodynamically significant PAD based on ABI testing are more likely to have asymptomatic rather than symptomatic disease. This illustrates the importance of maintaining a high clinical suspicion of underlying PAD for effective secondary prevention. Over 50% of patients with PAD are asymptomatic.[26]The prevalence of asymptomatic PAD may partly be explained by older individuals misinterpreting their symptoms as normal aging processes. Additionally, patients with mild to moderate PAD may be unable to exercise to a capacity where significant oxygen demand is required. Thus a mismatch between supply and demand does not occur, and patients remain asymptomatic."
+    ],
+    "causes": [
+      "Tobacco use",
+      "Diabetes mellitus",
+      "Hypertension",
+      "HIV",
+      "High cholesterol",
+      "Age more than 50 years",
+      "Elevated homocysteine levels",
+      "BMI greater than 30",
+      "Family history of cardiovascular disease"
+    ],
+    "risk_factors": [
+      "Peripheral vascular disease affects nearly 200 million people worldwide, including approximately 40 to 45 million Americans.[10]The disease is uncommon in younger populations; however, incidence increases sharply, with over 20% of people over 80 years old having PAD.[11]Data on gender differences is conflicting. In the Framingham study, intermittent claudication (IC) was more prevalent in men compared to women (1.9% to 0.8%; ratio 2.38).[12]This finding was consistent with the Rotterdam study that found men were 1.83 times more likely to have IC, with a prevalence of 2.2% in men and 1.2% in women.[13]However, a gender shift in prevalence occurs when the diagnosis of PAD is based on the ankle-brachial pressure index (ABI). For example, the Rotterdam study found the prevalence of ABI-based diagnosis of PAD to be 20.5% in women and 16.9% in adults, with a ratio of 0.82. Other studies, such as the Cardiovascular Health Study (CHS) and a population-based study, found no significant difference in ABI-based diagnosis of PAD between men and women. Proposed explanations for differences between ABI versus IC-defined PAD gender differences are that women are more likely to have atypical and late presentations and have intrinsically lower ABI values.[14]",
+      "Racial and socioeconomic disparities also exist. In regards to race, the CHS found African Americans to have an odds ratio of 2.12 for PAD compared to Non-Hispanic whites when adjusting for known risk factors.[15]The compilation of three studies addressing the impact of race on the risk of PAD found odds ratios of 2.3 to 3.1 for African Americans compared to Non-Hispanic whites when adjusting for confounders.[16]A socioeconomic survey study found patients with lower poverty-income ratios (PIR) to have a nearly 2 fold increase in the risk of PAD compared to higher PIR. Furthermore, the study found a lower educational level to be significantly associated with PAD (OR 2.8, 95% CI 1.96–4.0, p<0.0001).[17]"
+    ],
+    "treatments": [
+      "Patients diagnosed with peripheral vascular disease require a reasoned approach to account for age, risk factors, disease severity, and functional status. Management is divided into two broad categories aimed at decreasing cardiovascular events and improving symptoms. Persons with PAD are at increased risk of coronary artery disease mortality (relative risk = 6.6), cardiovascular mortality (relative risk = 5.9), and all-cause mortality (relative risk = 3.1).[32]Therefore PAD management begins with lifestyle modification to prevent disease progression with the addition of medical and interventional therapy required for improved symptomatic control and cardiovascular event risk reduction.",
+      "Cardiovascular Risk Factor Modification",
+      "Aggressive risk factors modification is essential to lowering cardiovascular risk. Smoking cessation reduces the risk of PAD progression, cardiovascular events, including myocardial infarction and stroke, and critical limb ischemia.[33]Patient education, along with the use of behavioral therapy, nicotine replacement therapy, or pharmacological therapy, can be used to reduce smoking and improve cardiovascular outcomes. Statin therapy has been effectively shown to reduce cardiovascular events and all-cause mortality and reduce the need for revascularization and should be routinely used in patients with PAD. Hypertension management with blood pressure reduction to less than 140/90 in nondiabetic and 130/80 in diabetic patients has been shown to improve outcomes.[34]Diabetes is a risk factor for symptomatic and asymptomatic PAD by 1.5 to 4 fold, respectively, and a hemoglobin A1c target of less than 7% should be achieved with less stringent goals for individuals with extensive comorbidities.[35]"
+    ],
+    "prevention": [
+      "Acute coronary syndrome",
+      "Stroke",
+      "Nonhealing ulcer",
+      "Gangrene",
+      "Amputation",
+      "Deep vein thrombosis",
+      "Erectile dysfunction"
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537129/",
+    "name": "Ventricular Fibrillation",
+    "source": "statpearls",
+    "definition": "The official IASP definition of allodynia at the time of this article is \"pain due to a stimulus that does not normally provoke pain.\" An example would be a light feather touch (that should only produce sensation) causing pain. Allodynia is different from hyperalgesia, which is an exaggerated response from a normally painful stimulus, although both can and often do co-exist. Both are types of neuropathic pain. An example of the difference between allodynia and hyperalgesia on the physical exam would be softly rubbing a cotton-tipped swab against a patient’s skin. Lightly brushing a swab against the skin would cause a low-level stimulus but should not elicit a pain response. A patient who experiences pain with a stimulus that should only cause a sensation may have allodynia. If the clinician significantly increases the degree of pressure, some pain would be part of a normal response. A patient who feels an excessive amount of pain would be noted to have hyperalgesia. Thus, on physical exam, allodynia presents as a lowering of the pain threshold, while hyperalgesia presents as a heightening of response. While this often means that allodynia and hyperalgesia seem to exist along the same continuum of stimuli on physical exam, there is still a clear difference in modalities. With allodynia, the response to the stimulus differs from those who have normal sensation, while in hyperalgesia, the response to the stimulus is the same as those who have normal sensation, but it is an exaggerated response.",
+    "symptoms": [
+      "HPI",
+      "Allodynia is a symptom, not a disease. It may be a patient’s chief complaint, but it is important to investigate further to determine the disease process causing the allodynia.",
+      "First, one should inquire when and how the allodynia started. Often, there is an instigating event, e.g., chemotherapy, herpes, or trauma. Sources suggest allodynia can develop more abruptly, as in trigeminal neuralgia, or may develop more insidiously, as in allodynia associated with diabetes. Other questions to ask the patient: Is the allodynia progressive? Does the pain wax and wane, or is it fairly constant? What is the quality of the pain? What have they tried for the pain? What makes it better, and what makes it worse? Is the pain associated with tactile stimuli, with movement, with temperature, or something else?"
+    ],
+    "causes": [
+      "The exact etiology behind allodynia is unknown. Allodynia is the phenomenon of a non-painful stimulus producing a sharp pain response, which implies an error in neuronal conduction. The mechanism behind this error is unclear. The strongest existing evidence suggests that sensory neuronal fibers may stimulate pain pathways, possibly due to an error in long-term potentiation. However, studies exist that suggest that superficial sensory components may also have involvement, as well as evidence that different mental states can affect the perception of allodynia. If we use the analogy of crisscrossed fibers, the actual location of the crisscrossing can vary and may be located almost anywhere along the peripheral to the central nervous system tract. Allodynia can involve both the peripheral nervous system and central nervous system via sensitization, and the mechanism behind the inappropriate pain sensations can evolve over time; this might partially explain the existing contradictory studies - they may all be measuring allodynia with neuronal confusion at different locations.",
+      "Some medications can cause allodynia. These include GLP-1 receptor agonists, chemotherapy agents, antibiotics, and metformin.",
+      "A non-painful stimulus such as light skin touch should only activate the low threshold A-beta fibers. In cutaneous allodynia, these A-beta fibers then also communicate with and activate pain pathways through different sodium channel types than the Nav1.7 sodium channels usually associated with pain, as well as through the modification of dorsal ganglia.[2]However, allodynic pain is multifactorial, and as people suffering from post-thalamic stroke pain can attest, the crisscrossing of neurons can happen as high as in the cerebellum."
+    ],
+    "risk_factors": [
+      "Neuropathic pain affects 0.9% to 17.9% of the general population, depending on the study and the exact inclusion criteria for neuropathic pain, with the best estimate between 6.9% and 10% of the population.[3]Allodynia is estimated to affect 15% to 50% of people with neuropathic pain.[4]The exact prevalence and epidemiology of allodynia are difficult to determine, as it is a symptom associated with many diseases. Listed below is the epidemiology of the most common diseases associated with allodynia:",
+      "Fibromyalgia",
+      "Fibromyalgia affects 0.5% to 5% of people in the general public, with varying ranges across different countries. Known risk factors for fibromyalgia include age, lupus, and rheumatoid arthritis. Studies report that women appear to be 2-9 times more likely to be diagnosed with fibromyalgia than men; however, this may be due more to clinical bias than merely meeting fibromyalgia criteria.[5]A recent study of rheumatoid patients which used a strict criteria-based scoring system to diagnose fibromyalgia found that women composed 58% of the sufferers. Some research also supports stress, obesity, and family history as risk factors; however, the literature is not conclusive.[6]"
+    ],
+    "treatments": [
+      "First, it is important to treat the underlying disease associated with allodynia. Usually, allodynia has an underlying disorder that requires action to slow, stop, or reverse the progression of the disease. However, allodynia by itself is often a progressive disease that worsens, even after the initial insult is over. The effective methods of treating allodynia will differ with each underlying disease state. This article will focus solely on the treatment of general allodynia, from prevention of allodynia’s progression and chronification to medical and other methods of treating allodynia.",
+      "Initiation, Progression, and Chronification:",
+      "Allodynia appears to be mediated by inflammation. NSAIDs and antiepileptic calcium channel blockers such as gabapentin have helped slow or prevent allodynia in animal models,[15]but more human data is needed. If a preventative component exists, both animal and human research suggest that it would be for the prevention of long-term allodynia, and not to improve immediate post-operative pain relief. Opioids do not seem to prevent allodynia, and in fact can be a cause of allodynia."
+    ],
+    "prevention": [
+      "The course and complications of allodynia will vary depending upon the cause of allodynia. In general, allodynia often worsens over time as crisscrossed neuronal synapses make stronger connections. Allodynia can have a substantial negative impact on mental and emotional health, due to the distress caused by continual pain. Medical treatments for allodynia also have side effects, especially if the treatment involves opioids."
+    ]
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459259/",
+    "name": "Myocarditis",
+    "source": "statpearls",
+    "definition": "Myocarditis is an inflammatory heart muscle (myocardium) process with focal and diffuse involvement. Clinically, myocarditis can present as an acute, subacute, or chronic disease process.[1]The presentation can be highly variable in symptomatic patients, from generalized fatigue, malaise, chest pain, congestive heart failure (CHF), cardiogenic shock, arrhythmias, and cardiac arrest. In the United States and other developed countries, viral infections are most frequently the cause of myocarditis. In developing countries, rheumatic carditis, Chagas disease, and complications related to advanced HIV/AIDS are significant causes of myocarditis. Other causes include toxic myocarditis, related to drugs that may cause an insidious form of the disease.[2]The exact incidence of myocarditis is unclear because of the above heterogenicity.[3]",
+    "symptoms": [
+      "Adults typically present with chest pain (95%), dyspnea (45%), fatigue, syncope, palpitations, fever (18-35%), tachycardia, and tachypnea. Hypotension may be seen. The presence of chest pain or CHF symptoms often indicates a poor prognosis.",
+      "Children often present with grunting respirations and intercostal retractions. Infants often present with fulminant syndrome, including fever, hypoxia with cyanosis, respiratory distress or failure, and occasionally cardiac arrest. Much like adults, long-term prognosis correlates with the severity of their initial presentation.",
+      "Sarcoid myocarditis presents with heart block and associated lymphadenopathy.",
+      "Giant cell myocarditis presents with ventricular tachycardia and heart failure.",
+      "Acute rheumatic fever presents with chorea, erythema marginatum, polyarthritis, and subcutaneous nodules."
+    ],
+    "causes": [
+      "Direct damage by the offending agent",
+      "Secondary immune response triggered by the offending agent",
+      "Expression of cytokines in the myocardium, which leads to an inflammatory process",
+      "Premature or aberrant induction of apoptosis"
+    ],
+    "risk_factors": [
+      "The incidence of myocarditis is approximately 1.5 million cases worldwide annually, and the overall incidence is unknown and probably underdiagnosed. In the United States, the frequency of myocarditis is difficult to ascertain as many cases are subclinical. In community-based populations, the prevalence and outcomes of myocarditis are unknown as epidemiologic studies suggest that most Coxsackie B virus infections, a significant cause of myocarditis, are subclinical, thus following a benign course.",
+      "According to some estimates, 1% to 5% of all patients with acute viral infections may involve the myocardium. Most patients are young and healthy. Susceptible individuals include children, pregnant women, and those who are immunocompromised.",
+      "COVID-19 and Myocarditis"
+    ],
+    "treatments": [
+      "For the most part, treatment of myocarditis is supportive and aimed at preserving left ventricular function. Treatments range from activity limitation to rhythm control and CHF management. Due to the lack of large multicenter randomized control trials, treatment recommendations for myocarditis are primarily based on expert consensus. Any patient suspected of having myocarditis, whether they are symptomatic or not, should be admitted to the hospital. The patient should be monitored for arrhythmias and signs of decompensation. A transthoracic echocardiogram should be obtained. Patients experiencing chest pain upon admission should be considered for a coronary CT angiogram or cardiac catheterization.",
+      "Along with providing supportive care, patients who present with heart failure and ventricular dysfunction should be treated according to current heart failure guidelines. Patients with heart failure often require diuretics and inotropic support. Long-term treatment with ACE inhibitors is recommended. Avoid cardiotoxic drugs and NSAIDs, as they can hinder the healing of the myocardium and exacerbate the inflammatory process. Some patients may require anticoagulation. The use of antiarrhythmics requires good clinical judgment, as many of these agents also have negative inotropic effects that may worsen heart failure. The use of aspirin is uncertain when it comes to acute myocarditis. Beta-blockers should be avoided in patients with heart blocks. Patients with a heart block may need a temporary pacemaker, while a permanent pacemaker is recommended if symptoms persist and the patient is ready to be discharged home.[27]",
+      "Physical activity should be limited during the acute phase of the disease. Exercise or nuclear stress testing should be avoided with acute symptoms. Intra-aortic balloon pump counterpulsation, Impella system, and veno-arterial extracorporeal oxygenation should be considered in patients with cardiogenic shock refractory to medical therapy."
+    ],
+    "prevention": [
+      "Excessive physical activity during acute myocarditis may increase the risk of sudden cardiac death. Professional athletes should refrain from competitive events for at least 3 to 6 months from the onset of myocarditis, regardless of the severity of symptoms, age, and sex. Before resuming participation in competitive sports, a complete evaluation and functional testing should be performed.",
+      "Life-threatening arrhythmias should be treated appropriately with AICD. The most likely mechanism for arrhythmias in acute myocarditis includes pathogen-mediated cell lysis, inflammatory changes, increased edema, cytokine release, gap junction dysfunction, and abnormal calcium handling secondary to iron channel impairment. Chronic myocarditis can also pose a risk for arrhythmias secondary to ongoing chronic inflammation, scar formation, and ventricular dysfunction."
+    ]
+  }
+]

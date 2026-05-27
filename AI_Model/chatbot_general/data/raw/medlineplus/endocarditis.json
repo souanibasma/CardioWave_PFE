@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Endocarditis",
+  "displaytitle": "<span class=\"mw-page-title-main\">Endocarditis</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q82504",
+  "titles": {
+    "canonical": "Endocarditis",
+    "normalized": "Endocarditis",
+    "display": "<span class=\"mw-page-title-main\">Endocarditis</span>"
+  },
+  "pageid": 9659,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blood_culture_negative_endocarditis.jpg/330px-Blood_culture_negative_endocarditis.jpg",
+    "width": 330,
+    "height": 215
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Blood_culture_negative_endocarditis.jpg",
+    "width": 500,
+    "height": 326
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1319361035",
+  "tid": "9e32f906-b4ac-11f0-b6fb-7046efe059ea",
+  "timestamp": "2025-10-29T09:49:53Z",
+  "description": "Inflammation of the heart's inner layer (endocardium)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Endocarditis",
+      "revisions": "https://en.wikipedia.org/wiki/Endocarditis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Endocarditis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Endocarditis"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Endocarditis",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Endocarditis",
+      "edit": "https://en.wikipedia.org/wiki/Endocarditis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Endocarditis"
+    }
+  },
+  "extract": "Endocarditis is an inflammation of the inner layer of the heart, the endocardium. It usually involves the heart valves. Other structures that may be involved include the interventricular septum, the chordae tendineae, the mural endocardium, or the surfaces of intracardiac devices. Endocarditis is characterized by lesions, known as vegetations, which are masses of platelets, fibrin, microcolonies of microorganisms, and scant inflammatory cells. In the subacute form of infective endocarditis, a vegetation may also include a center of granulomatous tissue, which may fibrose or calcify.",
+  "extract_html": "<p><b>Endocarditis</b> is an inflammation of the inner layer of the heart, the endocardium. It usually involves the heart valves. Other structures that may be involved include the interventricular septum, the chordae tendineae, the mural endocardium, or the surfaces of intracardiac devices. Endocarditis is characterized by lesions, known as <i>vegetations</i>, which are masses of platelets, fibrin, microcolonies of microorganisms, and scant inflammatory cells. In the subacute form of infective endocarditis, a vegetation may also include a center of granulomatous tissue, which may fibrose or calcify.</p>"
+}

@@ -1,0 +1,324 @@
+import { useState } from 'react';
+import { DashboardLayout } from '../components/DashboardLayout';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
+import { Button } from '../components/ui/button';
+import { Badge } from '../components/ui/badge';
+import { Input } from '../components/ui/input';
+import { Label } from '../components/ui/label';
+import { Textarea } from '../components/ui/textarea';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../components/ui/select';
+import { Activity, Heart, AlertTriangle, CheckCircle, Upload, FileText, TrendingUp } from 'lucide-react';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+
+// Mock ECG data
+const ecgData = Array.from({ length: 100 }, (_, i) => ({
+  time: i * 10,
+  voltage: Math.sin(i * 0.3) * 0.5 + Math.random() * 0.2,
+}));
+
+const analysisResults = {
+  heartRate: 72,
+  rhythm: 'Sinus Rhythm',
+  prInterval: '160 ms',
+  qrsDuration: '90 ms',
+  qtInterval: '400 ms',
+  riskLevel: 'Low',
+  confidence: 95,
+};
+
+export default function ECGAnalysis() {
+  const [isAnalyzing, setIsAnalyzing] = useState(false);
+  const [showResults, setShowResults] = useState(false);
+  const [patientName, setPatientName] = useState('');
+  const [patientAge, setPatientAge] = useState('');
+  const [patientId, setPatientId] = useState('');
+  const [notes, setNotes] = useState('');
+
+  const handleAnalyze = async () => {
+    setIsAnalyzing(true);
+    // Simulate analysis
+    await new Promise(resolve => setTimeout(resolve, 2000));
+    setIsAnalyzing(false);
+    setShowResults(true);
+  };
+
+  const handleReset = () => {
+    setShowResults(false);
+    setPatientName('');
+    setPatientAge('');
+    setPatientId('');
+    setNotes('');
+  };
+
+  return (
+    <DashboardLayout>
+      <div className="space-y-8">
+        {/* Header */}
+        <div>
+          <h1 className="text-3xl font-bold text-gray-900">ECG Analysis</h1>
+          <p className="text-gray-600 mt-1">AI-powered electrocardiogram analysis</p>
+        </div>
+
+        {/* Main Content */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          {/* Left Column - Patient Info & Upload */}
+          <div className="lg:col-span-1 space-y-6">
+            <Card className="border-gray-200">
+              <CardHeader>
+                <CardTitle>Patient Information</CardTitle>
+                <CardDescription>Enter patient details</CardDescription>
+              </CardHeader>
+              <CardContent className="space-y-4">
+                <div className="space-y-2">
+                  <Label htmlFor="patient-id">Patient ID</Label>
+                  <Input
+                    id="patient-id"
+                    placeholder="Enter patient ID"
+                    value={patientId}
+                    onChange={(e) => setPatientId(e.target.value)}
+                  />
+                </div>
+                <div className="space-y-2">
+                  <Label htmlFor="patient-name">Full Name</Label>
+                  <Input
+                    id="patient-name"
+                    placeholder="Enter patient name"
+                    value={patientName}
+                    onChange={(e) => setPatientName(e.target.value)}
+                  />
+                </div>
+                <div className="space-y-2">
+                  <Label htmlFor="patient-age">Age</Label>
+                  <Input
+                    id="patient-age"
+                    type="number"
+                    placeholder="Enter age"
+                    value={patientAge}
+                    onChange={(e) => setPatientAge(e.target.value)}
+                  />
+                </div>
+                <div className="space-y-2">
+                  <Label htmlFor="test-type">Test Type</Label>
+                  <Select defaultValue="standard">
+                    <SelectTrigger id="test-type">
+                      <SelectValue />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectItem value="standard">Standard 12-lead ECG</SelectItem>
+                      <SelectItem value="holter">24h Holter Monitor</SelectItem>
+                      <SelectItem value="exercise">Exercise Stress Test</SelectItem>
+                    </SelectContent>
+                  </Select>
+                </div>
+              </CardContent>
+            </Card>
+
+            <Card className="border-gray-200">
+              <CardHeader>
+                <CardTitle>Upload ECG Data</CardTitle>
+                <CardDescription>Upload patient ECG file</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="border-2 border-dashed border-gray-300 rounded-lg p-8 text-center hover:border-blue-400 transition-colors cursor-pointer">
+                  <Upload className="w-12 h-12 text-gray-400 mx-auto mb-3" />
+                  <p className="text-sm font-medium text-gray-900 mb-1">Click to upload ECG file</p>
+                  <p className="text-xs text-gray-500">PDF, XML, or CSV format</p>
+                </div>
+                <Button 
+                  className="w-full mt-4 bg-blue-600 hover:bg-blue-700" 
+                  onClick={handleAnalyze}
+                  disabled={isAnalyzing}
+                >
+                  {isAnalyzing ? (
+                    <>
+                      <Activity className="w-4 h-4 mr-2 animate-pulse" />
+                      Analyzing...
+                    </>
+                  ) : (
+                    <>
+                      <Heart className="w-4 h-4 mr-2" />
+                      Analyze ECG
+                    </>
+                  )}
+                </Button>
+              </CardContent>
+            </Card>
+
+            {showResults && (
+              <Card className="border-gray-200">
+                <CardHeader>
+                  <CardTitle>Quick Stats</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <span className="text-sm text-gray-600">Heart Rate</span>
+                    <span className="font-semibold text-gray-900">{analysisResults.heartRate} bpm</span>
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <span className="text-sm text-gray-600">PR Interval</span>
+                    <span className="font-semibold text-gray-900">{analysisResults.prInterval}</span>
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <span className="text-sm text-gray-600">QRS Duration</span>
+                    <span className="font-semibold text-gray-900">{analysisResults.qrsDuration}</span>
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <span className="text-sm text-gray-600">QT Interval</span>
+                    <span className="font-semibold text-gray-900">{analysisResults.qtInterval}</span>
+                  </div>
+                  <div className="flex items-center justify-between pt-3 border-t border-gray-200">
+                    <span className="text-sm text-gray-600">Confidence</span>
+                    <Badge variant="default">{analysisResults.confidence}%</Badge>
+                  </div>
+                </CardContent>
+              </Card>
+            )}
+          </div>
+
+          {/* Right Column - ECG Display & Results */}
+          <div className="lg:col-span-2 space-y-6">
+            {/* ECG Waveform */}
+            <Card className="border-gray-200">
+              <CardHeader>
+                <CardTitle>ECG Waveform</CardTitle>
+                <CardDescription>Real-time ECG visualization</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="bg-gray-900 rounded-lg p-4">
+                  <ResponsiveContainer width="100%" height={300}>
+                    <LineChart data={ecgData}>
+                      <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                      <XAxis dataKey="time" stroke="#9ca3af" label={{ value: 'Time (ms)', position: 'insideBottom', offset: -5 }} />
+                      <YAxis stroke="#9ca3af" label={{ value: 'Voltage (mV)', angle: -90, position: 'insideLeft' }} />
+                      <Tooltip 
+                        contentStyle={{ backgroundColor: '#1f2937', border: 'none', borderRadius: '8px' }}
+                        labelStyle={{ color: '#9ca3af' }}
+                      />
+                      <Line type="monotone" dataKey="voltage" stroke="#10b981" strokeWidth={2} dot={false} />
+                    </LineChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+
+            {/* Analysis Results */}
+            {showResults ? (
+              <>
+                <Card className="border-gray-200">
+                  <CardHeader>
+                    <CardTitle>Analysis Results</CardTitle>
+                    <CardDescription>AI-powered ECG interpretation</CardDescription>
+                  </CardHeader>
+                  <CardContent>
+                    <div className="space-y-4">
+                      {/* Diagnosis */}
+                      <div className="flex items-start gap-4 p-4 bg-green-50 border border-green-200 rounded-lg">
+                        <div className="w-10 h-10 bg-green-100 rounded-full flex items-center justify-center flex-shrink-0">
+                          <CheckCircle className="w-6 h-6 text-green-600" />
+                        </div>
+                        <div className="flex-1">
+                          <div className="flex items-center gap-2 mb-1">
+                            <h3 className="font-semibold text-gray-900">Primary Diagnosis</h3>
+                            <Badge variant="default" className="bg-green-600">{analysisResults.rhythm}</Badge>
+                          </div>
+                          <p className="text-sm text-gray-700">
+                            Normal sinus rhythm detected. No significant abnormalities found in the ECG pattern.
+                          </p>
+                        </div>
+                      </div>
+
+                      {/* Risk Assessment */}
+                      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                        <div className="p-4 bg-gray-50 rounded-lg">
+                          <div className="flex items-center gap-2 mb-2">
+                            <Heart className="w-5 h-5 text-blue-600" />
+                            <span className="text-sm font-medium text-gray-700">Risk Level</span>
+                          </div>
+                          <p className="text-2xl font-bold text-gray-900">{analysisResults.riskLevel}</p>
+                        </div>
+                        <div className="p-4 bg-gray-50 rounded-lg">
+                          <div className="flex items-center gap-2 mb-2">
+                            <Activity className="w-5 h-5 text-purple-600" />
+                            <span className="text-sm font-medium text-gray-700">Heart Rate</span>
+                          </div>
+                          <p className="text-2xl font-bold text-gray-900">{analysisResults.heartRate}</p>
+                          <p className="text-xs text-gray-500">bpm</p>
+                        </div>
+                        <div className="p-4 bg-gray-50 rounded-lg">
+                          <div className="flex items-center gap-2 mb-2">
+                            <TrendingUp className="w-5 h-5 text-green-600" />
+                            <span className="text-sm font-medium text-gray-700">Confidence</span>
+                          </div>
+                          <p className="text-2xl font-bold text-gray-900">{analysisResults.confidence}%</p>
+                        </div>
+                      </div>
+
+                      {/* Recommendations */}
+                      <div className="p-4 border border-gray-200 rounded-lg">
+                        <h3 className="font-semibold text-gray-900 mb-3">Recommendations</h3>
+                        <ul className="space-y-2 text-sm text-gray-700">
+                          <li className="flex items-start gap-2">
+                            <span className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-1.5 flex-shrink-0"></span>
+                            <span>Continue regular monitoring and follow-up appointments</span>
+                          </li>
+                          <li className="flex items-start gap-2">
+                            <span className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-1.5 flex-shrink-0"></span>
+                            <span>Maintain healthy lifestyle and exercise routine</span>
+                          </li>
+                          <li className="flex items-start gap-2">
+                            <span className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-1.5 flex-shrink-0"></span>
+                            <span>Schedule next ECG in 6 months</span>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+
+                {/* Doctor's Notes */}
+                <Card className="border-gray-200">
+                  <CardHeader>
+                    <CardTitle>Doctor's Notes</CardTitle>
+                    <CardDescription>Add your clinical observations</CardDescription>
+                  </CardHeader>
+                  <CardContent>
+                    <Textarea
+                      placeholder="Enter your clinical notes and observations here..."
+                      value={notes}
+                      onChange={(e) => setNotes(e.target.value)}
+                      rows={4}
+                      className="mb-4"
+                    />
+                    <div className="flex gap-3">
+                      <Button className="flex-1 bg-blue-600 hover:bg-blue-700">
+                        <FileText className="w-4 h-4 mr-2" />
+                        Save Report
+                      </Button>
+                      <Button variant="outline" onClick={handleReset}>
+                        Reset
+                      </Button>
+                    </div>
+                  </CardContent>
+                </Card>
+              </>
+            ) : (
+              <Card className="border-gray-200">
+                <CardContent className="py-16">
+                  <div className="text-center">
+                    <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                      <Heart className="w-8 h-8 text-blue-600" />
+                    </div>
+                    <h3 className="text-lg font-semibold text-gray-900 mb-2">Ready to Analyze</h3>
+                    <p className="text-sm text-gray-600 mb-6">
+                      Upload an ECG file and enter patient information to begin analysis
+                    </p>
+                  </div>
+                </CardContent>
+              </Card>
+            )}
+          </div>
+        </div>
+      </div>
+    </DashboardLayout>
+  );
+}

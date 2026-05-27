@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Angina",
+  "displaytitle": "<span class=\"mw-page-title-main\">Angina</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q180762",
+  "titles": {
+    "canonical": "Angina",
+    "normalized": "Angina",
+    "display": "<span class=\"mw-page-title-main\">Angina</span>"
+  },
+  "pageid": 65862,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A_man_having_a_Heart_Attack.png/330px-A_man_having_a_Heart_Attack.png",
+    "width": 330,
+    "height": 211
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/A_man_having_a_Heart_Attack.png",
+    "width": 2605,
+    "height": 1667
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1331585976",
+  "tid": "c1e0822c-eb72-11f0-9e70-66876a3ae158",
+  "timestamp": "2026-01-07T02:44:16Z",
+  "description": "Chest discomfort due to disorder of the heart muscles",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Angina",
+      "revisions": "https://en.wikipedia.org/wiki/Angina?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Angina?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Angina"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Angina",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Angina",
+      "edit": "https://en.wikipedia.org/wiki/Angina?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Angina"
+    }
+  },
+  "extract": "Angina, in full angina pectoris, is chest pain or pressure, usually caused by insufficient blood flow to the heart muscle (myocardium). It is most commonly a symptom of coronary artery disease.",
+  "extract_html": "<p><b>Angina</b>, in full <b>angina pectoris</b>, is chest pain or pressure, usually caused by insufficient blood flow to the heart muscle (myocardium). It is most commonly a symptom of coronary artery disease.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Aortic stenosis",
+  "displaytitle": "<span class=\"mw-page-title-main\">Aortic stenosis</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q531019",
+  "titles": {
+    "canonical": "Aortic_stenosis",
+    "normalized": "Aortic stenosis",
+    "display": "<span class=\"mw-page-title-main\">Aortic stenosis</span>"
+  },
+  "pageid": 194278,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aortic_stenosis_rheumatic%2C_gross_pathology_20G0014_lores.jpg/330px-Aortic_stenosis_rheumatic%2C_gross_pathology_20G0014_lores.jpg",
+    "width": 330,
+    "height": 220
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Aortic_stenosis_rheumatic%2C_gross_pathology_20G0014_lores.jpg",
+    "width": 700,
+    "height": 466
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1346140910",
+  "tid": "885b67cb-2bf1-11f1-923b-5bc02e67769a",
+  "timestamp": "2026-03-30T04:33:00Z",
+  "description": "Narrowing of the exit of the heart's left ventricle",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Aortic_stenosis",
+      "revisions": "https://en.wikipedia.org/wiki/Aortic_stenosis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Aortic_stenosis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Aortic_stenosis"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Aortic_stenosis",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Aortic_stenosis",
+      "edit": "https://en.wikipedia.org/wiki/Aortic_stenosis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Aortic_stenosis"
+    }
+  },
+  "extract": "Aortic stenosis is the narrowing of the outlet of the main pumping chamber of the heart, the left ventricle (LV). If the narrowing is severe the extra work required from the left ventricle to pump the blood against the increased resistance of a small orifice may cause thickening of the heart muscle, followed by severe weakness of the heart. The most common form of AS involves the aortic valve, which separates the LV from the aorta. Much more rarely stenosis can occur below the aortic valve or above it. Aortic stenosis typically gets worse over time. Typical symptoms are shortness of breath on exertion, chest pain (angina) and dizziness or blackouts on exertion (syncope). They often come on gradually, with a decreased ability to exercise often occurring first. If heart failure, loss of consciousness, or heart related chest pain occur due to AS, the outcomes are worse, with mortality of 50% at 2-5 years in the absence of valve replacement. Loss of consciousness typically occurs with standing or exercising. Signs of heart failure include shortness of breath especially when lying down, at night, or with exercise, and swelling of the legs. Thickening of the aortic valve without obstruction to flow is known as aortic sclerosis.",
+  "extract_html": "<p><b>Aortic stenosis</b> is the narrowing of the outlet of the main pumping chamber of the heart, the left ventricle (LV). If the narrowing is severe the extra work required from the left ventricle to pump the blood against the increased resistance of a small orifice may cause thickening of the heart muscle, followed by severe weakness of the heart. The most common form of AS involves the aortic valve, which separates the LV from the aorta. Much more rarely stenosis can occur below the aortic valve or above it. Aortic stenosis typically gets worse over time. Typical symptoms are shortness of breath on exertion, chest pain (angina) and dizziness or blackouts on exertion (syncope). They often come on gradually, with a decreased ability to exercise often occurring first. If heart failure, loss of consciousness, or heart related chest pain occur due to AS, the outcomes are worse, with mortality of 50% at 2-5 years in the absence of valve replacement. Loss of consciousness typically occurs with standing or exercising. Signs of heart failure include shortness of breath especially when lying down, at night, or with exercise, and swelling of the legs. Thickening of the aortic valve without obstruction to flow is known as <b>aortic sclerosis</b>.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Hypertension",
+  "displaytitle": "<span class=\"mw-page-title-main\">Hypertension</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q41861",
+  "titles": {
+    "canonical": "Hypertension",
+    "normalized": "Hypertension",
+    "display": "<span class=\"mw-page-title-main\">Hypertension</span>"
+  },
+  "pageid": 77432,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Grade_1_hypertension.jpg/330px-Grade_1_hypertension.jpg",
+    "width": 330,
+    "height": 219
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Grade_1_hypertension.jpg",
+    "width": 3008,
+    "height": 2000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1345318747",
+  "tid": "abcd8c75-2852-11f1-b048-7bf88f1f52a7",
+  "timestamp": "2026-03-25T13:58:16Z",
+  "description": "Long-term high blood pressure in the arteries",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hypertension",
+      "revisions": "https://en.wikipedia.org/wiki/Hypertension?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hypertension?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hypertension"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Hypertension",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Hypertension",
+      "edit": "https://en.wikipedia.org/wiki/Hypertension?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hypertension"
+    }
+  },
+  "extract": "Hypertension, also known as high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure usually does not cause symptoms itself. It is, however, a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia. Hypertension is a major cause of premature death worldwide.",
+  "extract_html": "<p><b>Hypertension</b>, also known as <b>high blood pressure</b>, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure usually does not cause symptoms itself. It is, however, a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia. Hypertension is a major cause of premature death worldwide.</p>"
+}

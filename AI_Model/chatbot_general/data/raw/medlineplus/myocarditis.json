@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Myocarditis",
+  "displaytitle": "<span class=\"mw-page-title-main\">Myocarditis</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q186235",
+  "titles": {
+    "canonical": "Myocarditis",
+    "normalized": "Myocarditis",
+    "display": "<span class=\"mw-page-title-main\">Myocarditis</span>"
+  },
+  "pageid": 452461,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Viral_myocarditis_%281%29.JPG/330px-Viral_myocarditis_%281%29.JPG",
+    "width": 330,
+    "height": 249
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Viral_myocarditis_%281%29.JPG",
+    "width": 600,
+    "height": 452
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1332743884",
+  "tid": "2338b24e-f09b-11f0-a906-6ee3d97851b4",
+  "timestamp": "2026-01-13T16:15:55Z",
+  "description": "Inflammation of the heart muscle",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Myocarditis",
+      "revisions": "https://en.wikipedia.org/wiki/Myocarditis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Myocarditis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Myocarditis"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Myocarditis",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Myocarditis",
+      "edit": "https://en.wikipedia.org/wiki/Myocarditis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Myocarditis"
+    }
+  },
+  "extract": "Myocarditis is inflammation of the cardiac muscle. Myocarditis can progress to inflammatory cardiomyopathy when there is associated ventricular remodeling and cardiac dysfunction due to chronic inflammation. Symptoms can include shortness of breath, chest pain, decreased ability to exercise, and an irregular heartbeat. The duration of problems can vary from hours to months. Complications may include heart failure, due to dilated cardiomyopathy or cardiac arrest.",
+  "extract_html": "<p><b>Myocarditis</b> is inflammation of the cardiac muscle. Myocarditis can progress to <b>inflammatory cardiomyopathy</b> when there is associated ventricular remodeling and cardiac dysfunction due to chronic inflammation. Symptoms can include shortness of breath, chest pain, decreased ability to exercise, and an irregular heartbeat. The duration of problems can vary from hours to months. Complications may include heart failure, due to dilated cardiomyopathy or cardiac arrest.</p>"
+}

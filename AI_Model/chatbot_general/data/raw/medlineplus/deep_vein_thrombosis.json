@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Deep vein thrombosis",
+  "displaytitle": "<span class=\"mw-page-title-main\">Deep vein thrombosis</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1762339",
+  "titles": {
+    "canonical": "Deep_vein_thrombosis",
+    "normalized": "Deep vein thrombosis",
+    "display": "<span class=\"mw-page-title-main\">Deep vein thrombosis</span>"
+  },
+  "pageid": 570153,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Deep_vein_thrombosis_of_the_right_leg.jpg/330px-Deep_vein_thrombosis_of_the_right_leg.jpg",
+    "width": 330,
+    "height": 527
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Deep_vein_thrombosis_of_the_right_leg.jpg",
+    "width": 1814,
+    "height": 2899
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1338049764",
+  "tid": "eb26ba11-0868-11f1-a8ce-b5ffd966aed4",
+  "timestamp": "2026-02-12T23:16:54Z",
+  "description": "Formation of a blood clot in a deep vein",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Deep_vein_thrombosis",
+      "revisions": "https://en.wikipedia.org/wiki/Deep_vein_thrombosis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Deep_vein_thrombosis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Deep_vein_thrombosis"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Deep_vein_thrombosis",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Deep_vein_thrombosis",
+      "edit": "https://en.wikipedia.org/wiki/Deep_vein_thrombosis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Deep_vein_thrombosis"
+    }
+  },
+  "extract": "Deep vein thrombosis (DVT) is a type of venous thrombosis involving the formation of a blood clot in a deep vein, most commonly in the legs or pelvis. A minority of DVTs occur in the arms. Symptoms can include pain, swelling, redness, and enlarged veins in the affected area, but some DVTs have no symptoms.",
+  "extract_html": "<p><b>Deep vein thrombosis</b> (<b>DVT</b>) is a type of venous thrombosis involving the formation of a blood clot in a deep vein, most commonly in the legs or pelvis. A minority of DVTs occur in the arms. Symptoms can include pain, swelling, redness, and enlarged veins in the affected area, but some DVTs have no symptoms.</p>"
+}

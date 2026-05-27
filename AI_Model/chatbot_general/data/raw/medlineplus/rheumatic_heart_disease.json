@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Valvular heart disease",
+  "displaytitle": "<span class=\"mw-page-title-main\">Valvular heart disease</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1130519",
+  "titles": {
+    "canonical": "Valvular_heart_disease",
+    "normalized": "Valvular heart disease",
+    "display": "<span class=\"mw-page-title-main\">Valvular heart disease</span>"
+  },
+  "pageid": 2532889,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Phonocardiograms_from_normal_and_abnormal_heart_sounds.svg/330px-Phonocardiograms_from_normal_and_abnormal_heart_sounds.svg.png",
+    "width": 330,
+    "height": 394
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Phonocardiograms_from_normal_and_abnormal_heart_sounds.svg/960px-Phonocardiograms_from_normal_and_abnormal_heart_sounds.svg.png",
+    "width": 731,
+    "height": 872
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1332710348",
+  "tid": "574aabdb-f070-11f0-8605-20ffafb5418f",
+  "timestamp": "2026-01-13T11:09:34Z",
+  "description": "Disease in the valves of the heart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Valvular_heart_disease",
+      "revisions": "https://en.wikipedia.org/wiki/Valvular_heart_disease?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Valvular_heart_disease?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Valvular_heart_disease"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Valvular_heart_disease",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Valvular_heart_disease",
+      "edit": "https://en.wikipedia.org/wiki/Valvular_heart_disease?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Valvular_heart_disease"
+    }
+  },
+  "extract": "Valvular heart disease is any cardiovascular disease process involving one or more of the four valves of the heart. These conditions occur largely as a consequence of aging, but may also be the result of congenital (inborn) abnormalities or specific disease or physiologic processes including rheumatic heart disease and pregnancy.",
+  "extract_html": "<p><b>Valvular heart disease</b> is any cardiovascular disease process involving one or more of the four valves of the heart. These conditions occur largely as a consequence of aging, but may also be the result of congenital (inborn) abnormalities or specific disease or physiologic processes including rheumatic heart disease and pregnancy.</p>"
+}

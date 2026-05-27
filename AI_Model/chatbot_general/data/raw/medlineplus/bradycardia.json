@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Bradycardia",
+  "displaytitle": "<span class=\"mw-page-title-main\">Bradycardia</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q217111",
+  "titles": {
+    "canonical": "Bradycardia",
+    "normalized": "Bradycardia",
+    "display": "<span class=\"mw-page-title-main\">Bradycardia</span>"
+  },
+  "pageid": 5872,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sinus_bradycardia_lead2.svg/330px-Sinus_bradycardia_lead2.svg.png",
+    "width": 330,
+    "height": 112
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sinus_bradycardia_lead2.svg/1280px-Sinus_bradycardia_lead2.svg.png",
+    "width": 1239,
+    "height": 420
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1335138600",
+  "tid": "b5a97cbc-fb94-11f0-8d47-279ec714505c",
+  "timestamp": "2026-01-27T15:27:37Z",
+  "description": "Heart rate below the normal range",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Bradycardia",
+      "revisions": "https://en.wikipedia.org/wiki/Bradycardia?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Bradycardia?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Bradycardia"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Bradycardia",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Bradycardia",
+      "edit": "https://en.wikipedia.org/wiki/Bradycardia?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Bradycardia"
+    }
+  },
+  "extract": "Bradycardia, from Ancient Greek βραδύς (bradús), meaning \"slow\", and καρδία (kardía), meaning \"heart\", also called bradyarrhythmia, is a resting heart rate under 60 beats per minute (BPM). While bradycardia can result from various pathological processes, it is commonly a physiological response to cardiovascular conditioning or due to asymptomatic type 1 atrioventricular block.",
+  "extract_html": "<p><b>Bradycardia</b>, from Ancient Greek <span class=\"extiw\">βραδύς</span> (<i>bradús</i>), meaning \"slow\", and <span class=\"extiw\">καρδία</span> (<i>kardía</i>), meaning \"heart\", also called <b>bradyarrhythmia</b>, is a resting heart rate under 60 beats per minute (BPM). While bradycardia can result from various pathological processes, it is commonly a physiological response to cardiovascular conditioning or due to asymptomatic type 1 atrioventricular block.</p>"
+}

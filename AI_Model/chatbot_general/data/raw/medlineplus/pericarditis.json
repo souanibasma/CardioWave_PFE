@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pericarditis",
+  "displaytitle": "<span class=\"mw-page-title-main\">Pericarditis</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q501561",
+  "titles": {
+    "canonical": "Pericarditis",
+    "normalized": "Pericarditis",
+    "display": "<span class=\"mw-page-title-main\">Pericarditis</span>"
+  },
+  "pageid": 684786,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pericarditis10.JPG/330px-Pericarditis10.JPG",
+    "width": 330,
+    "height": 159
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Pericarditis10.JPG",
+    "width": 4224,
+    "height": 2032
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1339028657",
+  "tid": "34519112-0ce5-11f1-b5de-7925e68cca22",
+  "timestamp": "2026-02-18T16:16:39Z",
+  "description": "Inflammation of the pericardium",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pericarditis",
+      "revisions": "https://en.wikipedia.org/wiki/Pericarditis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pericarditis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pericarditis"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Pericarditis",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Pericarditis",
+      "edit": "https://en.wikipedia.org/wiki/Pericarditis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pericarditis"
+    }
+  },
+  "extract": "Pericarditis is inflammation of the pericardium, the fibrous sac surrounding the heart. Symptoms typically include sudden onset of sharp chest pain, which may also be felt in the shoulders, neck, or back. The pain is typically less severe when sitting up and more severe when lying down or breathing deeply. Other symptoms of pericarditis can include fever, weakness, palpitations, and shortness of breath. The onset of symptoms can occasionally be gradual rather than sudden.",
+  "extract_html": "<p><b>Pericarditis</b> is inflammation of the pericardium, the fibrous sac surrounding the heart. Symptoms typically include sudden onset of sharp chest pain, which may also be felt in the shoulders, neck, or back. The pain is typically less severe when sitting up and more severe when lying down or breathing deeply. Other symptoms of pericarditis can include fever, weakness, palpitations, and shortness of breath. The onset of symptoms can occasionally be gradual rather than sudden.</p>"
+}

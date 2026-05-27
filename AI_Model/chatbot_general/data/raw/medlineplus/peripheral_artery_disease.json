@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Peripheral artery disease",
+  "displaytitle": "<span class=\"mw-page-title-main\">Peripheral artery disease</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q378681",
+  "titles": {
+    "canonical": "Peripheral_artery_disease",
+    "normalized": "Peripheral artery disease",
+    "display": "<span class=\"mw-page-title-main\">Peripheral artery disease</span>"
+  },
+  "pageid": 489173,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Arterial_ulcer_peripheral_vascular_disease.jpg/330px-Arterial_ulcer_peripheral_vascular_disease.jpg",
+    "width": 330,
+    "height": 220
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Arterial_ulcer_peripheral_vascular_disease.jpg",
+    "width": 750,
+    "height": 500
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1344748579",
+  "tid": "b6c4bd60-25cf-11f1-a0ad-2c09058cfe30",
+  "timestamp": "2026-03-22T09:15:48Z",
+  "description": "Abnormal narrowing of arteries other than those that supply the heart or brain",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Peripheral_artery_disease",
+      "revisions": "https://en.wikipedia.org/wiki/Peripheral_artery_disease?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Peripheral_artery_disease?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peripheral_artery_disease"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Peripheral_artery_disease",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Peripheral_artery_disease",
+      "edit": "https://en.wikipedia.org/wiki/Peripheral_artery_disease?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peripheral_artery_disease"
+    }
+  },
+  "extract": "Peripheral artery disease (PAD) is a vascular disorder that causes abnormal narrowing of arteries other than those that supply the heart or brain. PAD can happen in any blood vessel, but it is more common in the legs than the arms.",
+  "extract_html": "<p><b>Peripheral artery disease</b> (<b>PAD</b>) is a vascular disorder that causes abnormal narrowing of arteries other than those that supply the heart or brain. PAD can happen in any blood vessel, but it is more common in the legs than the arms.</p>"
+}

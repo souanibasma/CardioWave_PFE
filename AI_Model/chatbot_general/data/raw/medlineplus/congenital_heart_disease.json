@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Congenital heart defect",
+  "displaytitle": "<span class=\"mw-page-title-main\">Congenital heart defect</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q939364",
+  "titles": {
+    "canonical": "Congenital_heart_defect",
+    "normalized": "Congenital heart defect",
+    "display": "<span class=\"mw-page-title-main\">Congenital heart defect</span>"
+  },
+  "pageid": 868953,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/VSD_image.jpg/330px-VSD_image.jpg",
+    "width": 330,
+    "height": 292
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/VSD_image.jpg",
+    "width": 475,
+    "height": 421
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1326290257",
+  "tid": "1f09dc0c-d3eb-11f0-a45e-d1df0d51d41b",
+  "timestamp": "2025-12-08T04:05:24Z",
+  "description": "Defect in the structure of the heart that is present at birth",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Congenital_heart_defect",
+      "revisions": "https://en.wikipedia.org/wiki/Congenital_heart_defect?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Congenital_heart_defect?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Congenital_heart_defect"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Congenital_heart_defect",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Congenital_heart_defect",
+      "edit": "https://en.wikipedia.org/wiki/Congenital_heart_defect?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Congenital_heart_defect"
+    }
+  },
+  "extract": "A congenital heart defect (CHD), also known as a congenital heart anomaly, congenital cardiovascular malformation, and congenital heart disease, is a defect in the structure of the heart or great vessels that is present at birth. A congenital heart defect is classed as a cardiovascular disease. Signs and symptoms depend on the specific type of defect. Symptoms can vary from none to life-threatening. When present, symptoms are variable and may include rapid breathing, bluish skin (cyanosis), poor weight gain, and feeling tired. CHD does not cause chest pain. Most congenital heart defects are not associated with other diseases. A complication of CHD is heart failure. Due to recent advances in the management of patients with CHD, an increased number of patients may develop heart failure and might even require heart transplantation in future.",
+  "extract_html": "<p>A <b>congenital heart defect</b> (<b>CHD</b>), also known as a <b>congenital heart anomaly</b>, <b>congenital cardiovascular malformation</b>, and <b>congenital heart disease</b>, is a defect in the structure of the heart or great vessels that is present at birth. A congenital heart defect is classed as a cardiovascular disease. Signs and symptoms depend on the specific type of defect. Symptoms can vary from none to life-threatening. When present, symptoms are variable and may include rapid breathing, bluish skin (cyanosis), poor weight gain, and feeling tired. CHD does not cause chest pain. Most congenital heart defects are not associated with other diseases. A complication of CHD is heart failure. Due to recent advances in the management of patients with CHD, an increased number of patients may develop heart failure and might even require heart transplantation in future.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Cardiac arrest",
+  "displaytitle": "<span class=\"mw-page-title-main\">Cardiac arrest</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q202837",
+  "titles": {
+    "canonical": "Cardiac_arrest",
+    "normalized": "Cardiac arrest",
+    "display": "<span class=\"mw-page-title-main\">Cardiac arrest</span>"
+  },
+  "pageid": 60575,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/US_Navy_040421-N-8090G-001_Hospital_Corpsman_3rd_Class_Flowers_administers_chest_compressions_to_a_simulated_cardiac_arrest_victim.jpg/330px-US_Navy_040421-N-8090G-001_Hospital_Corpsman_3rd_Class_Flowers_administers_chest_compressions_to_a_simulated_cardiac_arrest_victim.jpg",
+    "width": 330,
+    "height": 251
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/US_Navy_040421-N-8090G-001_Hospital_Corpsman_3rd_Class_Flowers_administers_chest_compressions_to_a_simulated_cardiac_arrest_victim.jpg",
+    "width": 1500,
+    "height": 1140
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1341046115",
+  "tid": "723d8678-151f-11f1-abf2-fdc8299fa5bb",
+  "timestamp": "2026-03-01T03:33:43Z",
+  "description": "Sudden or unexpected loss of heartbeat",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cardiac_arrest",
+      "revisions": "https://en.wikipedia.org/wiki/Cardiac_arrest?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cardiac_arrest?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cardiac_arrest"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Cardiac_arrest",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Cardiac_arrest",
+      "edit": "https://en.wikipedia.org/wiki/Cardiac_arrest?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cardiac_arrest"
+    }
+  },
+  "extract": "Cardiac arrest, also known as sudden cardiac arrest (SCA), is a condition in which the heart suddenly and unexpectedly stops beating. When the heart stops, blood cannot circulate properly through the body and the blood flow to the brain and other organs is decreased. When the brain does not receive enough blood, this can cause a person to lose consciousness and brain cells begin to die within minutes due to a lack of oxygen. Coma and persistent vegetative state may result from cardiac arrest. Cardiac arrest is typically identified by the absence of a central pulse and abnormal or absent breathing.",
+  "extract_html": "<p><b>Cardiac arrest</b>, also known as <b>sudden cardiac arrest</b> (<b>SCA</b>), is a condition in which the heart suddenly and unexpectedly stops beating. When the heart stops, blood cannot circulate properly through the body and the blood flow to the brain and other organs is decreased. When the brain does not receive enough blood, this can cause a person to lose consciousness and brain cells begin to die within minutes due to a lack of oxygen. Coma and persistent vegetative state may result from cardiac arrest. Cardiac arrest is typically identified by the absence of a central pulse and abnormal or absent breathing.</p>"
+}

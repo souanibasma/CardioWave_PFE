@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Arrhythmia",
+  "displaytitle": "<span class=\"mw-page-title-main\">Arrhythmia</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q189331",
+  "titles": {
+    "canonical": "Arrhythmia",
+    "normalized": "Arrhythmia",
+    "display": "<span class=\"mw-page-title-main\">Arrhythmia</span>"
+  },
+  "pageid": 26254474,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ventricular_fibrillation.png/330px-Ventricular_fibrillation.png",
+    "width": 330,
+    "height": 184
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ventricular_fibrillation.png",
+    "width": 750,
+    "height": 418
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1341739168",
+  "tid": "cc329b78-1804-11f1-ba50-81aefed038b7",
+  "timestamp": "2026-03-04T20:00:31Z",
+  "description": "Group of medical conditions characterized by irregular heartbeat",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Arrhythmia",
+      "revisions": "https://en.wikipedia.org/wiki/Arrhythmia?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Arrhythmia?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arrhythmia"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Arrhythmia",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Arrhythmia",
+      "edit": "https://en.wikipedia.org/wiki/Arrhythmia?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arrhythmia"
+    }
+  },
+  "extract": "Arrhythmias, also known as cardiac arrhythmias, are irregularities in the heartbeat, including when it is too fast or too slow. Essentially, this is anything but normal sinus rhythm. A resting heart rate that is too fast – above 100 beats per minute in adults – is called tachycardia, and a resting heart rate that is too slow – below 60 beats per minute – is called bradycardia. Some types of arrhythmias have no symptoms. Symptoms, when present, may include palpitations or feeling a pause between heartbeats. In more serious cases, there may be lightheadedness, passing out, shortness of breath, chest pain, or decreased level of consciousness. While most cases of arrhythmia are not serious, some predispose a person to complications such as stroke or heart failure. Others may result in sudden death.",
+  "extract_html": "<p><b>Arrhythmias</b>, also known as <b>cardiac arrhythmias</b>, are irregularities in the heartbeat, including when it is too fast or too slow. Essentially, this is anything but normal sinus rhythm. A resting heart rate that is too fast – above 100 beats per minute in adults – is called tachycardia, and a resting heart rate that is too slow – below 60 beats per minute – is called bradycardia. Some types of arrhythmias have no symptoms. Symptoms, when present, may include palpitations or feeling a pause between heartbeats. In more serious cases, there may be lightheadedness, passing out, shortness of breath, chest pain, or decreased level of consciousness. While most cases of arrhythmia are not serious, some predispose a person to complications such as stroke or heart failure. Others may result in sudden death.</p>"
+}

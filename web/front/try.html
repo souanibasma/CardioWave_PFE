@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Image rotation 360</title>
+
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #ffffff;
+      overflow: hidden;
+    }
+
+    .image-container {
+      position: relative;
+      perspective: 1000px;
+    }
+
+    /* Glow derrière */
+    .image-container::before {
+      content: "";
+      position: absolute;
+      width: 350px;
+      height: 350px;
+      background: radial-gradient(circle, rgba(255, 255, 255, 0), transparent);
+      filter: blur(60px);
+      z-index: 0;
+    }
+
+    .rotating-image {
+      position: relative;
+      width: 300px;
+      height: auto;
+      animation: spin360 6s linear infinite;
+      transform-style: preserve-3d;
+      display: block;
+
+      /* 👉 BLUR ici */
+      filter: blur(3px) drop-shadow(0 20px 40px rgba(0,0,0,0.4));
+    }
+
+    @keyframes spin360 {
+      from {
+        transform: rotateY(0deg);
+      }
+      to {
+        transform: rotateY(360deg);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="image-container">
+    <img src="ton-image2.png" alt="Image qui tourne" class="rotating-image">
+  </div>
+</body>
+</html>

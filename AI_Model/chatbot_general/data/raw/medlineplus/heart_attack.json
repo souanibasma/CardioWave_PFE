@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Myocardial infarction",
+  "displaytitle": "<span class=\"mw-page-title-main\">Myocardial infarction</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q12152",
+  "titles": {
+    "canonical": "Myocardial_infarction",
+    "normalized": "Myocardial infarction",
+    "display": "<span class=\"mw-page-title-main\">Myocardial infarction</span>"
+  },
+  "pageid": 20556798,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blausen_0463_HeartAttack.png/330px-Blausen_0463_HeartAttack.png",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Blausen_0463_HeartAttack.png",
+    "width": 768,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1340911358",
+  "tid": "bcc9f141-149c-11f1-af0a-96f630dc41d8",
+  "timestamp": "2026-02-28T11:58:04Z",
+  "description": "Interruption of cardiac blood supply",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Myocardial_infarction",
+      "revisions": "https://en.wikipedia.org/wiki/Myocardial_infarction?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Myocardial_infarction?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Myocardial_infarction"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Myocardial_infarction",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Myocardial_infarction",
+      "edit": "https://en.wikipedia.org/wiki/Myocardial_infarction?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Myocardial_infarction"
+    }
+  },
+  "extract": "A myocardial infarction (MI), commonly known as a heart attack, occurs when blood flow decreases or stops in one of the arteries of the heart, causing infarction to the heart muscle. The most common symptom is retrosternal chest pain or discomfort that classically radiates to the left shoulder, arm, or jaw. The pain may occasionally feel like heartburn. This is the dangerous type of acute coronary syndrome.",
+  "extract_html": "<p>A <b>myocardial infarction</b> (<b>MI</b>), commonly known as a <b>heart attack</b>, occurs when blood flow decreases or stops in one of the arteries of the heart, causing infarction to the heart muscle. The most common symptom is retrosternal chest pain or discomfort that classically radiates to the left shoulder, arm, or jaw. The pain may occasionally feel like heartburn. This is the dangerous type of acute coronary syndrome.</p>"
+}

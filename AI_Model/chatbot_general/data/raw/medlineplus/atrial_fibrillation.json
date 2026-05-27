@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Atrial fibrillation",
+  "displaytitle": "<span class=\"mw-page-title-main\">Atrial fibrillation</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q815819",
+  "titles": {
+    "canonical": "Atrial_fibrillation",
+    "normalized": "Atrial fibrillation",
+    "display": "<span class=\"mw-page-title-main\">Atrial fibrillation</span>"
+  },
+  "pageid": 20869694,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Afib_ecg.jpg/330px-Afib_ecg.jpg",
+    "width": 330,
+    "height": 133
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Afib_ecg.jpg",
+    "width": 469,
+    "height": 189
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1336552393",
+  "tid": "18b696c8-01c5-11f1-a2ef-15e96865e7f1",
+  "timestamp": "2026-02-04T12:29:06Z",
+  "description": "Irregular beating of the atria of the heart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Atrial_fibrillation",
+      "revisions": "https://en.wikipedia.org/wiki/Atrial_fibrillation?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Atrial_fibrillation?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Atrial_fibrillation"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Atrial_fibrillation",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Atrial_fibrillation",
+      "edit": "https://en.wikipedia.org/wiki/Atrial_fibrillation?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Atrial_fibrillation"
+    }
+  },
+  "extract": "Atrial fibrillation is an abnormal heart rhythm (arrhythmia) characterized by rapid and irregular beating of the atrial chambers of the heart. It often begins as short periods of abnormal beating, which become longer or continuous over time. It may also start as other forms of arrhythmia, such as atrial flutter, that transform into AF.",
+  "extract_html": "<p><b>Atrial fibrillation</b> is an abnormal heart rhythm (arrhythmia) characterized by rapid and irregular beating of the atrial chambers of the heart. It often begins as short periods of abnormal beating, which become longer or continuous over time. It may also start as other forms of arrhythmia, such as atrial flutter, that transform into AF.</p>"
+}

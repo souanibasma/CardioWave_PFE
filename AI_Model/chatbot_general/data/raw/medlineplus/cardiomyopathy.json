@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Cardiomyopathy",
+  "displaytitle": "<span class=\"mw-page-title-main\">Cardiomyopathy</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q847583",
+  "titles": {
+    "canonical": "Cardiomyopathy",
+    "normalized": "Cardiomyopathy",
+    "display": "<span class=\"mw-page-title-main\">Cardiomyopathy</span>"
+  },
+  "pageid": 46133,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Idiopathic_cardiomyopathy%2C_gross_pathology_20G0018_lores.jpg/330px-Idiopathic_cardiomyopathy%2C_gross_pathology_20G0018_lores.jpg",
+    "width": 330,
+    "height": 225
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Idiopathic_cardiomyopathy%2C_gross_pathology_20G0018_lores.jpg",
+    "width": 699,
+    "height": 477
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1341266324",
+  "tid": "d97f3969-1600-11f1-9cda-d4ee4d0dcbcb",
+  "timestamp": "2026-03-02T06:27:13Z",
+  "description": "Disease of the heart muscle",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cardiomyopathy",
+      "revisions": "https://en.wikipedia.org/wiki/Cardiomyopathy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cardiomyopathy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cardiomyopathy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Cardiomyopathy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Cardiomyopathy",
+      "edit": "https://en.wikipedia.org/wiki/Cardiomyopathy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cardiomyopathy"
+    }
+  },
+  "extract": "Cardiomyopathy is a group of primary diseases of the heart muscle. Early on there may be few or no symptoms. As the disease worsens, shortness of breath, feeling tired, and swelling of the legs may occur, due to the onset of heart failure. An irregular heart beat and fainting may occur. Those affected are at an increased risk of sudden cardiac death.",
+  "extract_html": "<p><b>Cardiomyopathy</b> is a group of primary diseases of the heart muscle. Early on there may be few or no symptoms. As the disease worsens, shortness of breath, feeling tired, and swelling of the legs may occur, due to the onset of heart failure. An irregular heart beat and fainting may occur. Those affected are at an increased risk of sudden cardiac death.</p>"
+}

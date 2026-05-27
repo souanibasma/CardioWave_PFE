@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Coronary artery disease",
+  "displaytitle": "<span class=\"mw-page-title-main\">Coronary artery disease</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q844935",
+  "titles": {
+    "canonical": "Coronary_artery_disease",
+    "normalized": "Coronary artery disease",
+    "display": "<span class=\"mw-page-title-main\">Coronary artery disease</span>"
+  },
+  "pageid": 5876,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Blausen_0259_CoronaryArteryDisease_02.png/330px-Blausen_0259_CoronaryArteryDisease_02.png",
+    "width": 330,
+    "height": 248
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Blausen_0259_CoronaryArteryDisease_02.png",
+    "width": 1024,
+    "height": 768
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1344748965",
+  "tid": "13c07173-25d0-11f1-a5e5-493ce9c7216c",
+  "timestamp": "2026-03-22T09:18:24Z",
+  "description": "Reduction of blood flow to the heart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Coronary_artery_disease",
+      "revisions": "https://en.wikipedia.org/wiki/Coronary_artery_disease?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Coronary_artery_disease?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Coronary_artery_disease"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Coronary_artery_disease",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Coronary_artery_disease",
+      "edit": "https://en.wikipedia.org/wiki/Coronary_artery_disease?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Coronary_artery_disease"
+    }
+  },
+  "extract": "Coronary artery disease (CAD), also called coronary heart disease (CHD), or ischemic heart disease (IHD), is a type of heart disease involving the reduction of blood flow to the cardiac muscle due to a build-up of atheromatous plaque in the arteries of the heart. It is the most common of the cardiovascular diseases. CAD can cause stable angina, unstable angina, myocardial ischemia, and myocardial infarction.",
+  "extract_html": "<p><b>Coronary artery disease</b> (<b>CAD</b>), also called <b>coronary heart disease</b> (<b>CHD</b>), or <b>ischemic heart disease</b> (<b>IHD</b>), is a type of heart disease involving the reduction of blood flow to the cardiac muscle due to a build-up of atheromatous plaque in the arteries of the heart. It is the most common of the cardiovascular diseases. CAD can cause stable angina, unstable angina, myocardial ischemia, and myocardial infarction.</p>"
+}

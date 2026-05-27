@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Aortic aneurysm",
+  "displaytitle": "<span class=\"mw-page-title-main\">Aortic aneurysm</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q616003",
+  "titles": {
+    "canonical": "Aortic_aneurysm",
+    "normalized": "Aortic aneurysm",
+    "display": "<span class=\"mw-page-title-main\">Aortic aneurysm</span>"
+  },
+  "pageid": 779059,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aortic_aneurysm_hariadhi_svg.svg/330px-Aortic_aneurysm_hariadhi_svg.svg.png",
+    "width": 330,
+    "height": 330
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aortic_aneurysm_hariadhi_svg.svg/960px-Aortic_aneurysm_hariadhi_svg.svg.png",
+    "width": 512,
+    "height": 512
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1341022467",
+  "tid": "ba52ad78-150b-11f1-9492-4b83e1698364",
+  "timestamp": "2026-03-01T01:12:34Z",
+  "description": "Excessive enlargement of the human aorta",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Aortic_aneurysm",
+      "revisions": "https://en.wikipedia.org/wiki/Aortic_aneurysm?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Aortic_aneurysm?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Aortic_aneurysm"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Aortic_aneurysm",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Aortic_aneurysm",
+      "edit": "https://en.wikipedia.org/wiki/Aortic_aneurysm?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Aortic_aneurysm"
+    }
+  },
+  "extract": "An aortic aneurysm is an enlargement (dilatation) of the aorta to greater than 1.5 times normal size. Typically, there are no symptoms except when the aneurysm dissects or ruptures, which causes sudden, severe pain in the abdomen and lower back.",
+  "extract_html": "<p>An <b>aortic aneurysm</b> is an enlargement (dilatation) of the aorta to greater than 1.5 times normal size. Typically, there are no symptoms except when the aneurysm dissects or ruptures, which causes sudden, severe pain in the abdomen and lower back.</p>"
+}

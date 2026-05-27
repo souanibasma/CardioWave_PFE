@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Stroke",
+  "displaytitle": "<span class=\"mw-page-title-main\">Stroke</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q12202",
+  "titles": {
+    "canonical": "Stroke",
+    "normalized": "Stroke",
+    "display": "<span class=\"mw-page-title-main\">Stroke</span>"
+  },
+  "pageid": 625404,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MCA_Territory_Infarct.svg/330px-MCA_Territory_Infarct.svg.png",
+    "width": 330,
+    "height": 413
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MCA_Territory_Infarct.svg/330px-MCA_Territory_Infarct.svg.png",
+    "width": 327,
+    "height": 409
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1345144924",
+  "tid": "0d78f450-2790-11f1-962f-81b373993840",
+  "timestamp": "2026-03-24T14:45:08Z",
+  "description": "Death of a region of brain cells due to poor blood flow",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Stroke",
+      "revisions": "https://en.wikipedia.org/wiki/Stroke?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Stroke?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Stroke"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Stroke",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Stroke",
+      "edit": "https://en.wikipedia.org/wiki/Stroke?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Stroke"
+    }
+  },
+  "extract": "Stroke is a medical condition in which poor blood flow to a part of the brain causes cell death. There are two main types of stroke: ischemic, due to lack of blood flow, and hemorrhagic, due to bleeding. Both cause parts of the brain to stop functioning properly.",
+  "extract_html": "<p><b>Stroke</b> is a medical condition in which poor blood flow to a part of the brain causes cell death. There are two main types of stroke: ischemic, due to lack of blood flow, and hemorrhagic, due to bleeding. Both cause parts of the brain to stop functioning properly.</p>"
+}

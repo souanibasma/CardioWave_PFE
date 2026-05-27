@@ -1,0 +1,52 @@
+import mongoose, { Document, Schema } from "mongoose";
+
+export interface IECG extends Document {
+  patient: mongoose.Types.ObjectId;
+  doctor: mongoose.Types.ObjectId | null;
+  title: string;
+  status: "En attente" | "Analysé";
+  urgency: "normale" | "urgente";
+  notes?: string;
+  fileUrl: string;
+  createdAt: Date;
+}
+
+const ecgSchema = new Schema<IECG>(
+  {
+    patient: {
+      type: Schema.Types.ObjectId,
+      ref: "User",
+      required: true,
+    },
+    doctor: {
+      type: Schema.Types.ObjectId,
+      ref: "User",
+      default: null,
+    },
+    title: {
+      type: String,
+      required: true,
+    },
+    status: {
+      type: String,
+      enum: ["En attente", "Analysé"],
+      default: "En attente",
+    },
+    urgency: {
+      type: String,
+      enum: ["normale", "urgente"],
+      default: "normale",
+    },
+    notes: {
+      type: String,
+      default: "",
+    },
+    fileUrl: {
+      type: String,
+      required: true,
+    },
+  },
+  { timestamps: true }
+);
+
+export default mongoose.model<IECG>("ECG", ecgSchema);

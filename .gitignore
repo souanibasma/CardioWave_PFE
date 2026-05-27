@@ -1,0 +1,89 @@
+# ===========================
+# PYTHON
+# ===========================
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+web/backend/src/uploads/
+
+node_modules
+dist
+build
+__pycache__
+
+# ===========================
+# ENVIRONMENTS
+# ===========================
+env/
+venv/
+ENV/
+*/.env/
+**/.env/
+
+.env
+*.env
+
+# ===========================
+# AI MODELS & WEIGHTS
+# ===========================
+*.pt
+*.pth
+*.ckpt
+All_Model/
+AI_Model/Digitalisation/weights/
+
+# ===========================
+# DATA / OUTPUT
+# ===========================
+*.npy
+*.png
+*.jpg
+*.jpeg
+output_prod/
+**/output_prod/
+
+# ===========================
+# LOGS
+# ===========================
+*.log
+
+# ===========================
+# NODE (WEB)
+# ===========================
+node_modules/
+backend/node_modules/
+front/node_modules/
+
+# ENV frontend/backend
+backend/.env
+front/.env
+
+# ===========================
+# BUILD FILES
+# ===========================
+dist/
+build/
+*.egg-info/
+
+# ===========================
+# SYSTEM FILES
+# ===========================
+.DS_Store
+Thumbs.db
+
+# ===========================
+# TEMP / LOCAL FILES
+# ===========================
+structure.txt
+*.local
+
+# ===========================
+# CONDA / EXPORT
+# ===========================
+*.yml
+web/backend/src/reports/*.pdf
+web/Back2/.env
+web/backend/.env

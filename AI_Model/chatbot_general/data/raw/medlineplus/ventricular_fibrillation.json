@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ventricular fibrillation",
+  "displaytitle": "<span class=\"mw-page-title-main\">Ventricular fibrillation</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q848662",
+  "titles": {
+    "canonical": "Ventricular_fibrillation",
+    "normalized": "Ventricular fibrillation",
+    "display": "<span class=\"mw-page-title-main\">Ventricular fibrillation</span>"
+  },
+  "pageid": 183858,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ventricular_fibrillation.png/330px-Ventricular_fibrillation.png",
+    "width": 330,
+    "height": 184
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ventricular_fibrillation.png",
+    "width": 750,
+    "height": 418
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1336468678",
+  "tid": "0a80609d-015c-11f1-bd29-4715b6b4310d",
+  "timestamp": "2026-02-03T23:57:05Z",
+  "description": "Rapid quivering of the ventricles of the heart",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ventricular_fibrillation",
+      "revisions": "https://en.wikipedia.org/wiki/Ventricular_fibrillation?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ventricular_fibrillation?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ventricular_fibrillation"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ventricular_fibrillation",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ventricular_fibrillation",
+      "edit": "https://en.wikipedia.org/wiki/Ventricular_fibrillation?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ventricular_fibrillation"
+    }
+  },
+  "extract": "Ventricular fibrillation is an abnormal heart rhythm in which the ventricles of the heart quiver. It is due to disorganized electrical activity. Ventricular fibrillation can cause cardiac arrest and loss of consciousness without pulse. This is followed by sudden cardiac death in the absence of treatment. Ventricular fibrillation is initially found in about 10% of people with cardiac arrest.",
+  "extract_html": "<p><b>Ventricular fibrillation</b> is an abnormal heart rhythm in which the ventricles of the heart quiver. It is due to disorganized electrical activity. Ventricular fibrillation can cause cardiac arrest and loss of consciousness without pulse. This is followed by sudden cardiac death in the absence of treatment. Ventricular fibrillation is initially found in about 10% of people with cardiac arrest.</p>"
+}

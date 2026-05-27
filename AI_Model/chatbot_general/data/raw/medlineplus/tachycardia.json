@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tachycardia",
+  "displaytitle": "<span class=\"mw-page-title-main\">Tachycardia</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q209583",
+  "titles": {
+    "canonical": "Tachycardia",
+    "normalized": "Tachycardia",
+    "display": "<span class=\"mw-page-title-main\">Tachycardia</span>"
+  },
+  "pageid": 160581,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tachycardia_ECG_paper.svg/330px-Tachycardia_ECG_paper.svg.png",
+    "width": 330,
+    "height": 196
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tachycardia_ECG_paper.svg/960px-Tachycardia_ECG_paper.svg.png",
+    "width": 660,
+    "height": 391
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1327347366",
+  "tid": "311cca51-d87c-11f0-9b74-c7c68cfefb3b",
+  "timestamp": "2025-12-13T23:33:56Z",
+  "description": "Heart rate exceeding normal resting rate",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tachycardia",
+      "revisions": "https://en.wikipedia.org/wiki/Tachycardia?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tachycardia?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tachycardia"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Tachycardia",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Tachycardia",
+      "edit": "https://en.wikipedia.org/wiki/Tachycardia?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tachycardia"
+    }
+  },
+  "extract": "Tachycardia, also called tachyarrhythmia, is a heart rate that exceeds the normal resting rate. In general, a resting heart rate over 100 beats per minute is accepted as tachycardia in adults. Heart rates above the resting rate may be normal or abnormal.",
+  "extract_html": "<p><b>Tachycardia</b>, also called <b>tachyarrhythmia</b>, is a heart rate that exceeds the normal resting rate. In general, a resting heart rate over 100 beats per minute is accepted as tachycardia in adults. Heart rates above the resting rate may be normal or abnormal.</p>"
+}

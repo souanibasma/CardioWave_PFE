@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Atherosclerosis",
+  "displaytitle": "<span class=\"mw-page-title-main\">Atherosclerosis</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q12252367",
+  "titles": {
+    "canonical": "Atherosclerosis",
+    "normalized": "Atherosclerosis",
+    "display": "<span class=\"mw-page-title-main\">Atherosclerosis</span>"
+  },
+  "pageid": 85385,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blausen_0257_CoronaryArtery_Plaque.png/330px-Blausen_0257_CoronaryArtery_Plaque.png",
+    "width": 330,
+    "height": 232
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Blausen_0257_CoronaryArtery_Plaque.png",
+    "width": 940,
+    "height": 661
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1341311630",
+  "tid": "859444b0-1640-11f1-9a37-7e352cbc91b1",
+  "timestamp": "2026-03-02T14:03:00Z",
+  "description": "Inflammatory disease involving a buildup of lesions in the walls of arteries",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Atherosclerosis",
+      "revisions": "https://en.wikipedia.org/wiki/Atherosclerosis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Atherosclerosis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Atherosclerosis"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Atherosclerosis",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Atherosclerosis",
+      "edit": "https://en.wikipedia.org/wiki/Atherosclerosis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Atherosclerosis"
+    }
+  },
+  "extract": "Atherosclerosis is a pattern of the disease arteriosclerosis, characterized by development of abnormalities called lesions in walls of arteries. This is a chronic inflammatory disease involving many different cell types and is driven by elevated blood levels of cholesterol. These lesions may lead to narrowing of the arterial walls due to buildup of atheromatous plaques.",
+  "extract_html": "<p><b>Atherosclerosis</b> is a pattern of the disease arteriosclerosis, characterized by development of abnormalities called lesions in walls of arteries. This is a chronic inflammatory disease involving many different cell types and is driven by elevated blood levels of cholesterol. These lesions may lead to narrowing of the arterial walls due to buildup of atheromatous plaques.</p>"
+}

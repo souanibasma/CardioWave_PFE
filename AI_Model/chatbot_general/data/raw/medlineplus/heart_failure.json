@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Heart failure",
+  "displaytitle": "<span class=\"mw-page-title-main\">Heart failure</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q181754",
+  "titles": {
+    "canonical": "Heart_failure",
+    "normalized": "Heart failure",
+    "display": "<span class=\"mw-page-title-main\">Heart failure</span>"
+  },
+  "pageid": 249930,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elevated_JVP.JPG/330px-Elevated_JVP.JPG",
+    "width": 330,
+    "height": 432
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Elevated_JVP.JPG",
+    "width": 1527,
+    "height": 1997
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1341347776",
+  "tid": "331a4c8b-1667-11f1-832e-d2a5a45e4057",
+  "timestamp": "2026-03-02T18:39:52Z",
+  "description": "Failure of the heart to provide sufficient blood flow",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Heart_failure",
+      "revisions": "https://en.wikipedia.org/wiki/Heart_failure?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Heart_failure?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Heart_failure"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Heart_failure",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Heart_failure",
+      "edit": "https://en.wikipedia.org/wiki/Heart_failure?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Heart_failure"
+    }
+  },
+  "extract": "Heart failure (HF), also known as congestive heart failure (CHF), is a syndrome caused by an impairment in the heart's ability to fill with and pump blood.",
+  "extract_html": "<p><b>Heart failure</b> (<b>HF</b>), also known as <b>congestive heart failure</b> (<b>CHF</b>), is a syndrome caused by an impairment in the heart's ability to fill with and pump blood.</p>"
+}
