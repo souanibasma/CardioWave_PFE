@@ -29,6 +29,25 @@ AI_Model/
 
 ---
 
+# 🔑 1.5 Configure Environment Variables (.env)
+
+Les modèles d'IA conversationnelle nécessitent des clés d'API. Vous devez créer un fichier `.env` dans chaque dossier chatbot :
+
+**Fichier 1 :** `AI_Model/chatbot_general/.env`
+```env
+GROQ_API_KEY=votre_cle_ici
+GEMINI_API_KEY=votre_cle_ici
+OPENROUTER_API_KEY=votre_cle_ici
+TAVILY_API_KEY=votre_cle_ici
+```
+
+**Fichier 2 :** `AI_Model/chatbot_api/.env`
+```env
+OPENROUTER_API_KEY=votre_cle_ici
+```
+
+---
+
 # 🚀 2. Démarrage Rapide (Commandes directes)
 
 Voici les commandes exactes pour démarrer chaque composant dans un terminal séparé. Toutes les commandes doivent être exécutées **depuis la racine du projet**.
