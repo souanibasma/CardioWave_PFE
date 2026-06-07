@@ -2,7 +2,7 @@ import crypto from "crypto";
 import fs from "fs";
 
 const ALGORITHM = "aes-256-cbc";
-const encryptionKey = process.env.ECG_ENCRYPTION_KEY || "default_secret_key_32_characters_!!";
+const encryptionKey = process.env.ECG_ENCRYPTION_KEY || "default_secret_key_32_characters";
 const KEY = Buffer.from(encryptionKey, "utf8"); // 32 chars
 
 // Chiffrer un fichier

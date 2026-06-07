@@ -9,21 +9,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
-import sys
-if sys.platform == "win32":
-    for path in [r"C:\Users\MSI\anaconda3\envs\ecg_gpu\bin", r"C:\Users\MSI\anaconda3\envs\ecg_gpu\Library\bin"]:
-        if os.path.exists(path):
-            try: os.add_dll_directory(path)
-            except: pass
 import torch
-
-# GPU Optimizations for NVIDIA RTX Series
-if torch.cuda.is_available():
-    torch.backends.cudnn.benchmark = True # Re-enabled since memory leak is fixed (shapes are constant)
-    torch.backends.cuda.matmul.allow_tf32 = True
-    torch.backends.cudnn.allow_tf32 = True
-    torch.backends.cuda.enable_mem_efficient_sdp(True)
-
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
@@ -190,7 +176,6 @@ def load_models():
     from models.stage1_common import load_net as load_stage1_net
     from models.stage2_common import load_net as load_stage2_net
 
-    # Loading models explicitly to CPU first, then pin memory to DEVICE
     stage0_net = Stage0Net(pretrained=False)
     stage0_net = load_stage0_net(stage0_net, os.path.join(WEIGHTS_DIR, "stage0-last.checkpoint.pth"))
     stage0_net.to(DEVICE).eval()
@@ -204,44 +189,27 @@ def load_models():
     stage2_net.to(DEVICE).eval()
 
 def run_stage0(image):
-    import gc
     from models.stage0_common import image_to_batch, output_to_predict, normalise_by_homography
     batch = image_to_batch(image)
     batch["image"] = batch["image"].to(DEVICE)
-    with torch.inference_mode():
+    with torch.no_grad():
         output = stage0_net(batch)
     rotated, keypoint = output_to_predict(image, batch, output)
     normalised, keypoint, homo = normalise_by_homography(rotated, keypoint)
-    
-    # Cleanup memory aggressively
-    del batch, output
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
-    gc.collect()
-    
     return normalised, keypoint, homo
 
 def run_stage1(image_norm):
-    import gc
     from models.stage0_common import image_to_batch
     from models.stage1_common import output_to_predict, rectify_image
     batch = image_to_batch(image_norm)
     batch["image"] = batch["image"].to(DEVICE)
-    with torch.inference_mode():
+    with torch.no_grad():
         output = stage1_net(batch)
     gridpoint_xy, more = output_to_predict(image_norm, batch, output)
     rectified = rectify_image(image_norm, gridpoint_xy)
-    
-    # Cleanup memory aggressively
-    del batch, output, more
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
-    gc.collect()
-    
     return rectified, gridpoint_xy
 
 def run_stage2(image_rect, sample_length=5000):
-    import gc
     from models.stage2_common import pixel_to_series, filter_series_by_limits
     x0, x1 = 0, 2176
     y0, y1 = 0, 1696
@@ -254,7 +222,7 @@ def run_stage2(image_rect, sample_length=5000):
         "image": torch.from_numpy(np.ascontiguousarray(crop.transpose(2, 0, 1))).unsqueeze(0).to(DEVICE),
     }
 
-    with torch.inference_mode():
+    with torch.no_grad():
         output = stage2_net(batch)
         pixel = output["pixel"].data.cpu().numpy()[0]
 
@@ -262,11 +230,8 @@ def run_stage2(image_rect, sample_length=5000):
     series = (np.array(zero_mv).reshape(4, 1) - series_in_pixel) / mv_to_pixel
     series = filter_series_by_limits(series)
 
-    # Cleanup memory aggressively
-    del batch, output, pixel
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
-    gc.collect()
 
     return series
 

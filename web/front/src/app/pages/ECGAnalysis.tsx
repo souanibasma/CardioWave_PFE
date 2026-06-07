@@ -1041,6 +1041,14 @@ const [resolvedImageUrl, setResolvedImageUrl] = useState<string>("");
                         </div>
                       </button>
 
+                      {digitizeError && (
+                        <div className="p-3 mt-2 rounded-xl bg-rose-50 border border-rose-200 text-rose-700 text-xs font-bold flex items-center gap-2">
+                          <AlertCircle size={16} />
+                          {digitizeError}
+                        </div>
+                      )}
+
+
                       <button
                         onClick={handleAnalyze}
                         disabled={analyzing || !isDigitized || isAnalyzed}
@@ -1060,6 +1068,13 @@ const [resolvedImageUrl, setResolvedImageUrl] = useState<string>("");
                               : 'Analyser avec IA'}
                         </div>
                       </button>
+
+                      {analyzeError && (
+                        <div className="p-3 mt-2 rounded-xl bg-rose-50 border border-rose-200 text-rose-700 text-xs font-bold flex items-center gap-2">
+                          <AlertCircle size={16} />
+                          {analyzeError}
+                        </div>
+                      )}
                     </div>
 
                     {(digitizing || analyzing) && (
@@ -1084,7 +1099,7 @@ const [resolvedImageUrl, setResolvedImageUrl] = useState<string>("");
                           </div>
                         </div>
 
-                        <div className="h-2 rounded-full bg-indigo-100 overflow-hidden mb-5">
+                        <div className="h-3 rounded-full bg-indigo-100 overflow-hidden shadow-inner">
                           <motion.div
                             animate={{
                               width: `${
@@ -1093,44 +1108,9 @@ const [resolvedImageUrl, setResolvedImageUrl] = useState<string>("");
                                 100
                               }%`,
                             }}
-                            className="h-full bg-gradient-to-r from-indigo-600 to-violet-600 rounded-full"
+                            transition={{ ease: "easeInOut", duration: 0.5 }}
+                            className="h-full bg-gradient-to-r from-indigo-600 via-purple-500 to-indigo-600 rounded-full bg-[length:200%_auto] animate-gradient"
                           />
-                        </div>
-
-                        <div className="space-y-3">
-                          {aiProcessingSteps.map((step, index) => (
-                            <div
-                              key={step}
-                              className="flex items-center gap-3"
-                            >
-                              <div
-                                className={`
-                                w-8 h-8 rounded-full flex items-center justify-center text-xs font-black
-                                ${index < currentStep
-                                    ? 'bg-emerald-500 text-white'
-                                    : index === currentStep
-                                      ? 'bg-indigo-600 text-white animate-pulse'
-                                      : 'bg-white text-slate-400 border border-slate-200'}
-                              `}
-                              >
-                                {index < currentStep ? (
-                                  <CheckCircle2 size={14} />
-                                ) : (
-                                  index + 1
-                                )}
-                              </div>
-
-                              <span
-                                className={`text-sm font-medium ${
-                                  index <= currentStep
-                                    ? 'text-slate-800'
-                                    : 'text-slate-400'
-                                }`}
-                              >
-                                {step}
-                              </span>
-                            </div>
-                          ))}
                         </div>
                       </motion.div>
                     )}

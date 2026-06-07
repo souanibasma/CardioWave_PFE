@@ -201,7 +201,7 @@ export const digitizeECGAnalysis = async (req: Request, res: Response) => {
     const decryptedBuffer = decryptFile(imagePath);
     formData.append('file', decryptedBuffer, { filename: fileName });
     const response = await axios.post(`${FASTAPI_URL}/digitize`, formData, {
-      headers: formData.getHeaders(),
+      headers: formData.getHeaders()
     });
 
     const { plot_4leads, plot_12leads, plot_full_lead_ii, npy_file } = response.data;
@@ -372,6 +372,33 @@ export const saveDoctorNotes = async (req: Request, res: Response) => {
     res.status(200).json(analysis);
   } catch (error: any) {
     console.error("saveDoctorNotes error:", error);
+    res.status(500).json({ message: error.message });
+  }
+};
+
+// f) deleteECGAnalysis
+export const deleteECGAnalysis = async (req: Request, res: Response) => {
+  try {
+    const { id } = req.params;
+    
+    // Find the analysis first
+    const analysis = await ECGAnalysis.findById(id);
+    if (!analysis) {
+       res.status(404).json({ message: "Analyse introuvable" });
+       return;
+    }
+
+    // Delete the associated ECG document to clean up database completely
+    if (analysis.ecg) {
+      await ECG.findByIdAndDelete(analysis.ecg);
+    }
+
+    // Delete the analysis itself
+    await ECGAnalysis.findByIdAndDelete(id);
+
+    res.status(200).json({ message: "Analyse supprimée avec succès" });
+  } catch (error: any) {
+    console.error("deleteECGAnalysis error:", error);
     res.status(500).json({ message: error.message });
   }
 };

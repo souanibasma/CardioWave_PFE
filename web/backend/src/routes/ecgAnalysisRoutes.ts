@@ -30,4 +30,7 @@ router.post("/:id/analyze", ecgAnalysisController.analyzeECGWithAI);
 router.patch("/:id/notes", ecgAnalysisController.saveDoctorNotes);
 router.post("/:id/chat", protect, chatWithECG); 
 
+// DELETE /api/ecg-analysis/:id
+router.delete("/:id", protect, ecgAnalysisController.deleteECGAnalysis);
+
 export default router;
